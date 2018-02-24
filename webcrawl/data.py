@@ -4,7 +4,7 @@ from selenium import webdriver
 import shutil
 import os
 csvfile = open("data.csv", 'a')
-headers = "title,style,description,discount,sp\n"
+headers = "title,description\n"
 csvfile.write(headers)
 
 dircount = 1
@@ -59,22 +59,22 @@ while(True):
 	except:
 		sp = "none"
 		pass
-	imgdiv = soup.find("div", {"class" : "thumbnails-vertical-container"})
+	#imgdiv = soup.find("div", {"class" : "thumbnails-vertical-container"})
 	#print(imgdiv)
 	i=0
 	directory = "./"+str(dircount)
 	if not os.path.exists(directory):
 	    os.makedirs(directory)
-	for img in imgdiv.findAll('button'):
-		src = img.img['src']
-		src = src.replace("h_68,q_100,w_52", "h_1440,q_100,w_1080")
-		response = requests.get(src, stream = True)
-		imgname=directory+"/"+"img"+str(i)+".jpg"
-		with open(imgname, 'wb') as out_file:
-			shutil.copyfileobj(response.raw, out_file)
-		del response
-		print(src)
-		i = i + 1
+	#for img in imgdiv.findAll('button'):
+	#	src = img.img['src']
+	#	src = src.replace("h_68,q_100,w_52", "h_1440,q_100,w_1080")
+	#	response = requests.get(src, stream = True)
+	#	imgname=directory+"/"+"img"+str(i)+".jpg"
+	#	with open(imgname, 'wb') as out_file:
+	#		shutil.copyfileobj(response.raw, out_file)
+	#	del response
+	#	print(src)
+	#	i = i + 1
 	#browser.quit()
 	
 	csvfile.write(title + "," + style + "," + description + "," + breadcrumb + "," + discount + "," + sp + "," + "\n")
