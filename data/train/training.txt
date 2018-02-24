@@ -448,8 +448,6 @@ product, Front and Rear Flash
 product, does it have three slots? two for sim and one for memory card?
 product, is this 4G phone
 product, is this 3G phone
-product, is this 3G phone
-product, is this 3G phone
 product, is this 2G phone
 product, does the rear flash works
 product, does the battery has 4000 mah
