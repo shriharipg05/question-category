@@ -1,238 +1,208 @@
-support, How can I return or exchange an item?
-support, Should I call Flipkart's Customer Care for installation once my product is delivered?
-support, I have requested for a return for my item. When will it happen?
-support, What is the replacement process for orders ?
-support, My order status shows 'Out for Delivery', but I haven't got it yet. When will I get it?
-support, I've still not received the refund in my bank account.
-
-support, I have requested a replacement, when will I get it?	
-
-support, I missed the delivery of my order today. What should I do?
-
-support, Will the delivery be tried again if I'm not able to collect my order the first time?
-
-support, The delivery of my order is delayed. What should I do?
-
-support, What should I do if my order is approved but hasn't been shipped yet?
-
-support, Can I take the shipment after opening and checking the contents inside?
-
-support, How do I know my order has been confirmed?
-
-support, How quickly can I get my order delivered?
-
-support, My order has reached the nearest delivery hub, but why isn't it out for delivery yet?
-
-support, My order status shows 'Out for Delivery', but I haven't got it yet. When will I get it?
-
-support, Why can't I track my order even though it has been shipped?
-
-support, What should I do if I don't get the invoice for my order?
-
-support, How do I get invoices for my previous orders without having to check my e-mails?
-
-support, Should I call Flipkart's Customer Care for installation once my product is delivered?
-
-support, Will my product be installed by the brand or Flipkart? If it is installed by Flipkart, will it affect the warranty of the product?
-
-support, How will my order be delivered?
-
-support, Why is the 'Cash on Delivery' payment mode not available at my location?
-
-support, Where can I find the seller's returns policy?
-
-support, What does the tag 'Imported' beside a product mean?
-
-support, How can I place an order?
-
-support, I have a complaint about the courier executive who came to deliver my order.
-
-support, What should I do if a service centre denied my request to repair the product?
-
-support, Can I get my order delivered faster?
-
-support, How is a 'business day' different from a regular day?
-
-support, What is the estimated delivery time?
-
-support, How can I trust that the groceries that will be delivered are quality checked and fresh?
-
-support, If I request for a replacement, when will I get it?
-support, Which products are not eligible for returns?
-support, Can items be returned after the time period mentioned in the seller's Returns Policy?
-support, Do I have to return the freebie when I return a product?
-support, How do returns work?
-support, I see the 'Cancel' button but I can't click on it. Why?
-support, How long does it take to cancel an order?
-support, What is the Buyer Protection policy?
-support, What should I do if I have an issue with my product after the return period?
-support, What are the checks done for an item that I'm returning?
-support, How can I return or exchange an item?
-support, When is a return of an item not possible?
-support, How will I get my refund for returning an item I paid for with Cash on Delivery?
-support, How can I know the status of my refund?
-support, What are the modes of refund available after cancellation?
-support, When are refunds given?
-support, I ordered a wrong item. Can I return it?
-support, What should I do if I find the package open or tampered on delivery?
-support, Can I change the address for the pick-up the of item(s) in my order?
-support, Why have I been asked to ship the item?
-support, What is the pickup process?
-support, I have requested for a return for my item. When will it happen?
-support, I have requested a replacement, when will I get it?
-support, I've still not received the refund in my bank account.
-
-support, What is Flipkart's credit card EMI payment option?
-support, How can I order for large quantities of the product as part of a corporate order?
-support, How can I label my saved cards?
-support, How many cards can I save on Flipkart?
-support, I had opted to save my card at the time of payment but my card was not saved. Why?
-support, I typed an incorrect card number by mistake when adding my card. How do I correct it?
-support, Is it safe to save my cards on Flipkart?
-support, What card information does Flipkart store?
-support, What cards can I save on Flipkart?
-support, What is a 'card label'?
-support, What is the 'Save Card' feature?
-support, How does Flipkart prevent card fraud?
-support, Can I delete my saved cards?
-support, How can I save my card(s) on Flipkart?
-support, How do I pay using Flipkart's credit card EMI option?
-support, How is my EMI debited?
-support, I have a query about the EMI charge. What should I do?
-support, What are the interest rates for the Credit card EMI plans?
-support, Which Credit cards are eligible for EMI?
-support, Can I pay with any Credit card?
-support, Can I use a saved card to make an EMI payment?
-support, Can I use any Debit Card to pay for my order?
-support, Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
-support, Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
-support, Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
-support, How can I get the 3D Secure password for my Credit/Debit Card?
-support, How can I pay with a saved Credit/Debit Card?
-support, How can I pay for my order?
-support, How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-support, How do I pay using a credit or debit card?
-support, How does the 3D Secure password add security to my online transactions?
-support, If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
-support, What is a 3D Secure password?
-support, What is the amount I can shop for with Cash on Delivery payment option?
-support, What is Cash on Delivery?
-support, How can I foreclose my EMI with Bajaj Finserv?
-
-support, You can contact Bajaj Finserv at 020 3957 5152 for help with the foreclosure of your EMI with them.
-My payment from the 'Bajaj Finserv No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-support, I did not get the OTP while I was paying through the 'Bajaj Finserv No Cost EMI' payment mode. What should I do?
-support, Can I cancel my EMI after I've placed the order using the Bajaj Finserv payment option?
-support, Can I foreclose my EMI with Bajaj Finserv?
-support, Can I get the refund for the item to any other mode if I have paid using the Bajaj Finserv payment option?
-support, Do I need to make a down payment to buy an item using the Bajaj Finserv EMI payment mode?
-support, How can I get a Bajaj Finserv EMI card?
-support, I chose the wrong EMI plan while making the payment using Bajaj Finserv No Cost EMI option. Can I change it now?
-support, What are the EMI plans available if I pay using the Bajaj Finserv payment mode?
-support, If I have paid for my order using the Bajaj Finserv No Cost EMI payment option, will I get a complete refund if the item is cancelled or returned?
-support, What is the credit limit on the Bajaj Finserv card for shopping on Flipkart?
-support, How can I pay for my order using the Bajaj Finserv payment mode?
-support, How is Bajaj Finserv payment mode different from the credit card EMI payment mode?
-support, What are the benefits of the Bajaj Finserv payment mode?
-support, Why can't I see Bajaj Finserv as a payment mode for some items?
-support, Is Bajaj Finserv payment mode available on both the website and app?
-support, What is Bajaj Finserv payment mode?
-
-support, I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
-support, Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
-support, What are the benefits of the 'Credit Card No Cost EMI' payment mode?
-support, How can I foreclose my EMI for an item I bought using the 'Credit Card No Cost EMI'?
-support, Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
-support, Can I foreclose my EMIs for products purchased using the 'Credit Card No Cost EMI' payment mode?
-support, Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option?
-support, Do I need to make a down payment to buy an item using the 'Credit Card No Cost EMI' payment mode?
-support, How can I pay for my order using the 'Credit Card No Cost EMI' payment mode?
-support, How is 'Credit Card No Cost EMI' different from 'Credit Card EMI' payment mode?
-support, I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
-support, My payment using the 'Credit Card No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-support, What are the EMI plans available if I pay using the 'Credit Card No Cost EMI' payment mode?
-support, What is 'Credit Card No Cost EMI'?
-support, What is No Cost EMI and how can I avail it?
-support, What is the credit limit on the 'Credit Card No Cost EMI' card for shopping on Flipkart?
-support, Why can't I see 'Credit Card No Cost EMI' as a payment mode for some items?
-support, Is 'Credit Card No Cost EMI' payment mode available on Flipkart's Windows and iOS apps?
-support, Will I get a complete refund if the item is cancelled or returned if I have paid for the order using the 'Credit Card No Cost EMI' payment option?
-support, Why do I see different prices for the same product?
-support, Is installation offered for all products?
-support, Is it necessary to have an account to shop on Flipkart?
-support, What does 'Preorder' or 'Forthcoming' mean?
-support, Do sellers on Flipkart ship internationally?
-support, Can I use an item that has been given to me as a gift from a state sponsored or an NGO-funded freebie distribution programme to get discounts through exchange offers?
-support, Will I get a wall mount for my television in the box?
-support, Can I order a product that is 'Out of Stock' or 'Temporarily Unavailable'?
-support, What does 'Out of Stock' mean?
-support, What does 'Permanently Discontinued' or 'Out of Print' mean?
-support, What does the badge Flipkart Assured mean?
-support, Do I have to pay extra for items with the Flipkart Assured badge?
-support, What is Flipkart Buyer Protection?
-support, Why do I see a shipping charge for an item with the Flipkart Assured badge?
-support, Is Flipkart Advantage the same as Flipkart Assured?
-support, How does 'Instant Cashback' work?
-support, Is there a filter available through which I can only see items with a Flipkart Assured badge?
-support, What are the benefits of buying an item with a Flipkart Assured badge?
-support, How are items packaged?
-support, Are there any hidden charges (Octroi or Sales Tax) when I shop on Flipkart?
-support, Why do I see different prices for books with the same title?
-support, Why do I see a 'delivery charge'?
-support, Why does the estimated delivery time vary for each seller?
-support, Can I choose PhonePe wallet as a refund option?
-support, Do I need to install the PhonePe app to use the wallet option on my Flipkart account?
-support, How can I use PhonePe to pay on Flipkart?
-support, How long will it take for a refund from Flipkart to my PhonePe wallet?
-support, I had some amount in the Flipkart Money section and would like to transfer it to my bank. Will I need to install the PhonePe add to do this?
-support, If my refund amount exceeds ₹20,000, will I get the option for PhonePe UPI linked account and other registered account for NEFT or IMPS?
-support, Will I have to use the same contact number to create a PhonePe account as the one linked to my Flipkart account?
-support, Is it necessary to register with PhonePe to use it on Flipkart?
-support, Is PhonePe wallet available on Flipkart's Windows and iOS apps too?
-support, My PhonePe Wallet is not activated. How do I get a refund credited to it?
-support, What is Phonepe?
-support, Why are faster delivery options not available at my location?
-support, Why can't I get some items shipped to my location?
-support, Are faster delivery options like Same Day & In-a-Day available on return requests?
-support, Are there any guidelines for writing product reviews?
-support, What can I write in product reviews?
-support, What's not allowed in product reviews?
-support, What happens if my accounts are merged?
-support, Can I reactivate my inactive Flipkart account?
-support, I'm getting the error message that says, 'You've exceeded the maximum number of attempts to enter correct verification code'. How can I log in to my Flipkart account now?
-support, Why is one of my Flipkart accounts now inactive?
-support, I created an account using my mobile number. I also have an account with an email address. Can I merge these accounts?
-support, Can I add multiple email addresses and mobile numbers to log into my account?
-support, Do I need to verify my mobile number or email address every time I log in?
-support, What should I do if I don't get the OTP or verification code?
-support, What is an OTP or verification code?
-support, Why do I need to verify my mobile number or email address to log into my Flipkart account?
-support, How can I add a new delivery address to my Flipkart account?
-support, I always login using my phone number, but I recently lost my phone. I have also forgotten the password to my Flipkart account. How do I access it?
-support, How can I change the password for my Flipkart account?
-support, How can I use my mobile number to login on the Flipkart mobile app?
-support, How can I change the email ID linked with my Flipkart account?
-support, How can I use a new email address to log in to my Flipkart account?
-support, How can I merge my Flipkart accounts if I have more than one?
-support, How can I deactivate my account?
-support, Why can't I log into my Flipkart account using Facebook and/or Google?
-support, How do I report a listing infringement?
-support, If I have found a security Bug/Vulnerability/Issue what should I do?
-support, Will my shipment be safe at the pickup store?
-support, How will I know that my shipment has reached the pick-up store?
-support, How can I collect my shipment from the pick-up store?
-support, How does the pick-up store option on Flipkart work?
-support, How long do I have to pick up my shipment from the pick-up store?
-support, What should I do if my shipment is not at the pick-up store?
-support, What happens if I'm not able to pick up my shipment within 5 days from the pickup store for some reason?
-support, What is a pick-up store?
-support, Is a pick-up store option better than having the shipment sent directly to me?
-support, Can I drop off an item I want to return at the pick-up store?
-support, Can someone else collect an order on my behalf from a pick-up store?
-support, Is my shipment safe at the pick-up store?
-support, What are the benefits of choosing the pick-up store option for delivery?
-support, My shipment is damaged at the self pickup store, what do I do?
-support, How much time does it take for the shipment to reach a pickup store?
-support, How to know if my area has self pick-up service?
-support, Is there a charge for pickup of products from a 'Pickup Store'?
-support, There are no charges for pickup of products from a 'Pickup Store'. Standard delivery charges still apply.
+SUPPORT: How can I return or exchange an item?
+SUPPORT: Should I call Flipkart's Customer Care for installation once my product is delivered?
+SUPPORT: I have requested for a return for my item. When will it happen?
+SUPPORT: What is the replacement process for orders?
+SUPPORT: My order status shows 'Out for Delivery', but I haven't got it yet. When will I get it?
+SUPPORT: I've still not received the refund in my bank account.
+SUPPORT: I have requested a replacement, when will I get it?	
+SUPPORT: I missed the delivery of my order today. What should I do?
+SUPPORT: Will the delivery be tried again if I'm not able to collect my order the first time?
+SUPPORT: The delivery of my order is delayed. What should I do?
+SUPPORT: What should I do if my order is approved but hasn't been shipped yet?
+SUPPORT: Can I take the shipment after opening and checking the contents inside?
+SUPPORT: How do I know my order has been confirmed?
+SUPPORT: How quickly can I get my order delivered?
+SUPPORT: My order has reached the nearest delivery hub, but why isn't it out for delivery yet?
+SUPPORT: My order status shows 'Out for Delivery', but I haven't got it yet. When will I get it?
+SUPPORT: Why can't I track my order even though it has been shipped?
+SUPPORT: What should I do if I don't get the invoice for my order?
+SUPPORT: How do I get invoices for my previous orders without having to check my e-mails?
+SUPPORT: Should I call Flipkart's Customer Care for installation once my product is delivered?
+SUPPORT: Will my product be installed by the brand or Flipkart? If it is installed by Flipkart, will it affect the warranty of the product?
+SUPPORT: How will my order be delivered?
+SUPPORT: Why is the 'Cash on Delivery' payment mode not available at my location?
+SUPPORT: Where can I find the seller's returns policy?
+SUPPORT: What does the tag 'Imported' beside a product mean?
+SUPPORT: How can I place an order?
+SUPPORT: I have a complaint about the courier executive who came to deliver my order.
+SUPPORT: What should I do if a service centre denied my request to repair the product?
+SUPPORT: Can I get my order delivered faster?
+SUPPORT: How is a 'business day' different from a regular day?
+SUPPORT: What is the estimated delivery time?
+SUPPORT: How can I trust that the groceries that will be delivered are quality checked and fresh?
+SUPPORT: If I request for a replacement, when will I get it?
+SUPPORT: Which products are not eligible for returns?
+SUPPORT: Can items be returned after the time period mentioned in the seller's Returns Policy?
+SUPPORT: Do I have to return the freebie when I return a product?
+SUPPORT: How do returns work?
+SUPPORT: I see the 'Cancel' button but I can't click on it. Why?
+SUPPORT: How long does it take to cancel an order?
+SUPPORT: What is the Buyer Protection policy?
+SUPPORT: What should I do if I have an issue with my product after the return period?
+SUPPORT: What are the checks done for an item that I'm returning?
+SUPPORT: How can I return or exchange an item?
+SUPPORT: When is a return of an item not possible?
+SUPPORT: How will I get my refund for returning an item I paid for with Cash on Delivery?
+SUPPORT: How can I know the status of my refund?
+SUPPORT: What are the modes of refund available after cancellation?
+SUPPORT: When are refunds given?
+SUPPORT: I ordered a wrong item. Can I return it?
+SUPPORT: What should I do if I find the package open or tampered on delivery?
+SUPPORT: Can I change the address for the pick-up the of item(s) in my order?
+SUPPORT: Why have I been asked to ship the item?
+SUPPORT: What is the pickup process?
+SUPPORT: I have requested for a return for my item. When will it happen?
+SUPPORT: I have requested a replacement, when will I get it?
+SUPPORT: I've still not received the refund in my bank account.
+SUPPORT: What is Flipkart's credit card EMI payment option?
+SUPPORT: How can I order for large quantities of the product as part of a corporate order?
+SUPPORT: How can I label my saved cards?
+SUPPORT: How many cards can I save on Flipkart?
+SUPPORT: I had opted to save my card at the time of payment but my card was not saved. Why?
+SUPPORT: I typed an incorrect card number by mistake when adding my card. How do I correct it?
+SUPPORT: Is it safe to save my cards on Flipkart?
+SUPPORT: What card information does Flipkart store?
+SUPPORT: What cards can I save on Flipkart?
+SUPPORT: What is a 'card label'?
+SUPPORT: What is the 'Save Card' feature?
+SUPPORT: How does Flipkart prevent card fraud?
+SUPPORT: Can I delete my saved cards?
+SUPPORT: How can I save my card(s) on Flipkart?
+SUPPORT: How do I pay using Flipkart's credit card EMI option?
+SUPPORT: How is my EMI debited?
+SUPPORT: I have a query about the EMI charge. What should I do?
+SUPPORT: What are the interest rates for the Credit card EMI plans?
+SUPPORT: Which Credit cards are eligible for EMI?
+SUPPORT: Can I pay with any Credit card?
+SUPPORT: Can I use a saved card to make an EMI payment?
+SUPPORT: Can I use any Debit Card to pay for my order?
+SUPPORT: Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
+SUPPORT: Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
+SUPPORT: Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
+SUPPORT: How can I get the 3D Secure password for my Credit/Debit Card?
+SUPPORT: How can I pay with a saved Credit/Debit Card?
+SUPPORT: How can I pay for my order?
+SUPPORT: How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
+SUPPORT: How do I pay using a credit or debit card?
+SUPPORT: How does the 3D Secure password add security to my online transactions?
+SUPPORT: If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
+SUPPORT: What is a 3D Secure password?
+SUPPORT: What is the amount I can shop for with Cash on Delivery payment option?
+SUPPORT: What is Cash on Delivery?
+SUPPORT: How can I foreclose my EMI with Bajaj Finserv?
+SUPPORT: You can contact Bajaj Finserv at 020 3957 5152 for help with the foreclosure of your EMI with them.
+SUPPORT: My payment from the 'Bajaj Finserv No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
+SUPPORT: I did not get the OTP while I was paying through the 'Bajaj Finserv No Cost EMI' payment mode. What should I do?
+SUPPORT: Can I cancel my EMI after I've placed the order using the Bajaj Finserv payment option?
+SUPPORT: Can I foreclose my EMI with Bajaj Finserv?
+SUPPORT: Can I get the refund for the item to any other mode if I have paid using the Bajaj Finserv payment option?
+SUPPORT: Do I need to make a down payment to buy an item using the Bajaj Finserv EMI payment mode?
+SUPPORT: How can I get a Bajaj Finserv EMI card?
+SUPPORT: I chose the wrong EMI plan while making the payment using Bajaj Finserv No Cost EMI option. Can I change it now?
+SUPPORT: What are the EMI plans available if I pay using the Bajaj Finserv payment mode?
+SUPPORT: If I have paid for my order using the Bajaj Finserv No Cost EMI payment option, will I get a complete refund if the item is cancelled or returned?
+SUPPORT: What is the credit limit on the Bajaj Finserv card for shopping on Flipkart?
+SUPPORT: How can I pay for my order using the Bajaj Finserv payment mode?
+SUPPORT: How is Bajaj Finserv payment mode different from the credit card EMI payment mode?
+SUPPORT: What are the benefits of the Bajaj Finserv payment mode?
+SUPPORT: Why can't I see Bajaj Finserv as a payment mode for some items?
+SUPPORT: Is Bajaj Finserv payment mode available on both the website and app?
+SUPPORT: What is Bajaj Finserv payment mode?
+SUPPORT: I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
+SUPPORT: Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
+SUPPORT: What are the benefits of the 'Credit Card No Cost EMI' payment mode?
+SUPPORT: How can I foreclose my EMI for an item I bought using the 'Credit Card No Cost EMI'?
+SUPPORT: Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
+SUPPORT: Can I foreclose my EMIs for products purchased using the 'Credit Card No Cost EMI' payment mode?
+SUPPORT: Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option?
+SUPPORT: Do I need to make a down payment to buy an item using the 'Credit Card No Cost EMI' payment mode?
+SUPPORT: How can I pay for my order using the 'Credit Card No Cost EMI' payment mode?
+SUPPORT: How is 'Credit Card No Cost EMI' different from 'Credit Card EMI' payment mode?
+SUPPORT: I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
+SUPPORT: My payment using the 'Credit Card No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
+SUPPORT: What are the EMI plans available if I pay using the 'Credit Card No Cost EMI' payment mode?
+SUPPORT: What is 'Credit Card No Cost EMI'?
+SUPPORT: What is No Cost EMI and how can I avail it?
+SUPPORT: What is the credit limit on the 'Credit Card No Cost EMI' card for shopping on Flipkart?
+SUPPORT: Why can't I see 'Credit Card No Cost EMI' as a payment mode for some items?
+SUPPORT: Is 'Credit Card No Cost EMI' payment mode available on Flipkart's Windows and iOS apps?
+SUPPORT: Will I get a complete refund if the item is cancelled or returned if I have paid for the order using the 'Credit Card No Cost EMI' payment option?
+SUPPORT: Why do I see different prices for the same product?
+SUPPORT: Is installation offered for all products?
+SUPPORT: Is it necessary to have an account to shop on Flipkart?
+SUPPORT: What does 'Preorder' or 'Forthcoming' mean?
+SUPPORT: Do sellers on Flipkart ship internationally?
+SUPPORT: Can I use an item that has been given to me as a gift from a state sponsored or an NGO-funded freebie distribution programme to get discounts through exchange offers?
+SUPPORT: Will I get a wall mount for my television in the box?
+SUPPORT: Can I order a product that is 'Out of Stock' or 'Temporarily Unavailable'?
+SUPPORT: What does 'Out of Stock' mean?
+SUPPORT: What does 'Permanently Discontinued' or 'Out of Print' mean?
+SUPPORT: What does the badge Flipkart Assured mean?
+SUPPORT: Do I have to pay extra for items with the Flipkart Assured badge?
+SUPPORT: What is Flipkart Buyer Protection?
+SUPPORT: Why do I see a shipping charge for an item with the Flipkart Assured badge?
+SUPPORT: Is Flipkart Advantage the same as Flipkart Assured?
+SUPPORT: How does 'Instant Cashback' work?
+SUPPORT: Is there a filter available through which I can only see items with a Flipkart Assured badge?
+SUPPORT: What are the benefits of buying an item with a Flipkart Assured badge?
+SUPPORT: How are items packaged?
+SUPPORT: Are there any hidden charges (Octroi or Sales Tax) when I shop on Flipkart?
+SUPPORT: Why do I see different prices for books with the same title?
+SUPPORT: Why do I see a 'delivery charge'?
+SUPPORT: Why does the estimated delivery time vary for each seller?
+SUPPORT: Can I choose PhonePe wallet as a refund option?
+SUPPORT: Do I need to install the PhonePe app to use the wallet option on my Flipkart account?
+SUPPORT: How can I use PhonePe to pay on Flipkart?
+SUPPORT: How long will it take for a refund from Flipkart to my PhonePe wallet?
+SUPPORT: I had some amount in the Flipkart Money section and would like to transfer it to my bank. Will I need to install the PhonePe add to do this?
+SUPPORT: If my refund amount exceeds ₹20,000, will I get the option for PhonePe UPI linked account and other registered account for NEFT or IMPS?
+SUPPORT: Will I have to use the same contact number to create a PhonePe account as the one linked to my Flipkart account?
+SUPPORT: Is it necessary to register with PhonePe to use it on Flipkart?
+SUPPORT: Is PhonePe wallet available on Flipkart's Windows and iOS apps too?
+SUPPORT: My PhonePe Wallet is not activated. How do I get a refund credited to it?
+SUPPORT: What is Phonepe?
+SUPPORT: Why are faster delivery options not available at my location?
+SUPPORT: Why can't I get some items shipped to my location?
+SUPPORT: Are faster delivery options like Same Day & In-a-Day available on return requests?
+SUPPORT: Are there any guidelines for writing product reviews?
+SUPPORT: What can I write in product reviews?
+SUPPORT: What's not allowed in product reviews?
+SUPPORT: What happens if my accounts are merged?
+SUPPORT: Can I reactivate my inactive Flipkart account?
+SUPPORT: I'm getting the error message that says, 'You've exceeded the maximum number of attempts to enter correct verification code'. How can I log in to my Flipkart account now?
+SUPPORT: Why is one of my Flipkart accounts now inactive?
+SUPPORT: I created an account using my mobile number. I also have an account with an email address. Can I merge these accounts?
+SUPPORT: Can I add multiple email addresses and mobile numbers to log into my account?
+SUPPORT: Do I need to verify my mobile number or email address every time I log in?
+SUPPORT: What should I do if I don't get the OTP or verification code?
+SUPPORT: What is an OTP or verification code?
+SUPPORT: Why do I need to verify my mobile number or email address to log into my Flipkart account?
+SUPPORT: How can I add a new delivery address to my Flipkart account?
+SUPPORT: I always login using my phone number, but I recently lost my phone. I have also forgotten the password to my Flipkart account. How do I access it?
+SUPPORT: How can I change the password for my Flipkart account?
+SUPPORT: How can I use my mobile number to login on the Flipkart mobile app?
+SUPPORT: How can I change the email ID linked with my Flipkart account?
+SUPPORT: How can I use a new email address to log in to my Flipkart account?
+SUPPORT: How can I merge my Flipkart accounts if I have more than one?
+SUPPORT: How can I deactivate my account?
+SUPPORT: Why can't I log into my Flipkart account using Facebook and/or Google?
+SUPPORT: How do I report a listing infringement?
+SUPPORT: If I have found a security Bug/Vulnerability/Issue what should I do?
+SUPPORT: Will my shipment be safe at the pickup store?
+SUPPORT: How will I know that my shipment has reached the pick-up store?
+SUPPORT: How can I collect my shipment from the pick-up store?
+SUPPORT: How does the pick-up store option on Flipkart work?
+SUPPORT: How long do I have to pick up my shipment from the pick-up store?
+SUPPORT: What should I do if my shipment is not at the pick-up store?
+SUPPORT: What happens if I'm not able to pick up my shipment within 5 days from the pickup store for some reason?
+SUPPORT: What is a pick-up store?
+SUPPORT: Is a pick-up store option better than having the shipment sent directly to me?
+SUPPORT: Can I drop off an item I want to return at the pick-up store?
+SUPPORT: Can someone else collect an order on my behalf from a pick-up store?
+SUPPORT: Is my shipment safe at the pick-up store?
+SUPPORT: What are the benefits of choosing the pick-up store option for delivery?
+SUPPORT: My shipment is damaged at the self pickup store, what do I do?
+SUPPORT: How much time does it take for the shipment to reach a pickup store?
+SUPPORT: How to know if my area has self pick-up service?
+SUPPORT: Is there a charge for pickup of products from a 'Pickup Store'?
+SUPPORT: There are no charges for pickup of products from a 'Pickup Store'. Standard delivery charges still apply.
