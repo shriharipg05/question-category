@@ -1,0 +1,257 @@
+SOFA: SEATING CAPACITY
+SOFA: 1 Seater
+SOFA: 2 Seater
+SOFA: 3 Seater
+SOFA: 4 Seater
+SOFA: 5 Seater
+SOFA: 6 Seater
+SOFA: 7 Seater
+SOFA: SEATING CAPACITY
+SOFA: 1 Seater
+SOFA: 2 Seater
+SOFA: 3 Seater
+SOFA: 4 Seater
+SOFA: 5 Seater
+SOFA: 6 Seater
+SOFA: 7 Seater
+SOFA: SEATING CAPACITY 1 Seater 2 Seater 3 Seater 4 Seater 5 Seater 6 Seater 7 Seater
+SOFA: SEATING CAPACITY 1 Seater 2 Seater 3 Seater 4 Seater 5 Seater 6 Seater 7 Seater
+SOFA: SEATING CAPACITY 1 Seater 2 Seater 3 Seater 4 Seater 5 Seater 6 Seater 7 Seater
+SOFA: PRIMARY MATERIAL
+SOFA: Fabric
+SOFA: Leather
+SOFA: Leatherette
+SOFA: Solid Wood
+SOFA: PRIMARY MATERIAL
+SOFA: Fabric
+SOFA: Leather
+SOFA: Leatherette
+SOFA: Solid Wood
+SOFA: TYPE
+SOFA: Modular
+SOFA: Sectional
+SOFA: Sofa
+SOFA: Standard
+SOFA: TYPE
+SOFA: Modular
+SOFA: Sectional
+SOFA: Sofa
+SOFA: Standard
+SOFA: TYPE
+SOFA: Modular
+SOFA: Sectional
+SOFA: Sofa
+SOFA: Standard
+SOFA: HomeTown
+SOFA: Nilkamal
+SOFA: @home by Nilkamal
+SOFA: Urban Ladder
+SOFA: Godrej Interio
+SOFA: Furnicity
+SOFA: Induscraft
+SOFA: Kurlon
+SOFA: Urban Living
+SOFA: ARRA
+SOFA: DZYN Furnitures
+SOFA: FurnitureKraft
+SOFA: Vintej Home
+SOFA: The Jaipur Living
+SOFA: FabHomeDecor
+SOFA: KSARTANDCRAFT
+SOFA: SOFA: Black Square
+SOFA: Natural Fibres Export
+SOFA: Vintage
+SOFA: RAWAT
+SOFA: Peachtree
+SOFA: Dream Furniture
+SOFA: Durian
+SOFA: Dreamzz Furniture
+SOFA: Furny
+SOFA: Evok
+SOFA: Amey
+SOFA: Dovetail
+SOFA: shop klass
+SOFA: Mavi
+SOFA: GIOTEAK
+SOFA: FURNITURE MIND
+SOFA: Home City
+SOFA: Status
+SOFA: Home Edge
+SOFA: Cloud9
+SOFA: Furnspace
+SOFA: Knight Industry
+SOFA: Sethu Furniture
+SOFA: Bharat Lifestyle
+SOFA: RoyalOak
+SOFA: Tezerac
+SOFA: HomeTown
+SOFA: Nilkamal
+SOFA: @home by Nilkamal
+SOFA: Urban Ladder
+SOFA: Godrej Interio
+SOFA: SOFA: Furnicity
+SOFA: Induscraft
+SOFA: Kurlon
+SOFA: Urban Living
+SOFA: ARRA
+SOFA: DZYN Furnitures
+SOFA: FurnitureKraft
+SOFA: Vintej Home
+SOFA: The Jaipur Living
+SOFA: FabHomevDecor
+SOFA: Westido
+SOFA: KSARTANDCRAFT
+SOFA: Black Square
+SOFA: Natural Fibres Export
+SOFA: Vintage
+SOFA: RAWAT
+SOFA: Peachtree
+SOFA: Dream Furniture
+SOFA: Durian
+SOFA: Dreamzz Furniture
+SOFA: Furny
+SOFA: Evok
+SOFA: Amey
+SOFA: Dovetail
+SOFA: shop klass
+SOFA: Mavi
+SOFA: GIOTEAK
+SOFA: FURNITURE MIND
+SOFA: Home City
+SOFA: Status
+SOFA: Home Edge
+SOFA: Cloud9
+SOFA: Furnspace
+SOFA: Knight Industry
+SOFA: Sethu Furniture
+SOFA: Bharat Lifestyle
+SOFA: RoyalOak
+SOFA: Tezerac
+SOFA: CONFIGURATION
+SOFA: Curved
+SOFA: L-shaped
+SOFA: Modular
+SOFA: Straight
+SOFA: U-shaped
+SOFA: CONFIGURATION
+SOFA: Curved
+SOFA: L-shaped
+SOFA: Modular
+SOFA: Straight
+SOFA: U-shaped
+SOFA: PRIMARY COLOR
+SOFA: Beige
+SOFA: Black
+SOFA: Blue
+SOFA: Brown
+SOFA: Gold
+SOFA: Green
+SOFA: Grey
+SOFA: Maroon
+SOFA: Multicolor
+SOFA: Orange
+SOFA: Pink
+SOFA: Purple
+SOFA: Red
+SOFA: Silver
+SOFA: White
+SOFA: Yellow
+SOFA: ORIENTATION
+SOFA: Left Facing
+SOFA: NA
+SOFA: Right Facing
+SOFA: Symmetrical
+SOFA: ORIENTATION
+SOFA: Left Facing
+SOFA: NA
+SOFA: Right Facing
+SOFA: Symmetrical
+SOFA: Cushion
+SOFA: Tufted
+SOFA: Bharat Lifestyle Nano Fabric 6 Seater Standard  (Finish Color - Black Grey)
+SOFA: Right Facing
+SOFA: Filling Material: Foam
+SOFA: W x H x D: 187 cm x 76 cm x 83 cm (6 ft 1 in x 2 ft 5 in x 2 ft 8 in)
+SOFA: DIY - Basic assembly to be done with simple tools, comes with instructions
+SOFA: Sales Package
+SOFA: 1 sofa sectional, 6 Cushion
+SOFA: Model Number Nano
+SOFA: Secondary Material Solid Wood
+SOFA: Secondary Material Subtype Chenille
+SOFA: Suitable For Living Room
+SOFA: Style Contemporary & Modern
+SOFA: Configuration L-shaped
+SOFA: Upholstery Type Cushion
+SOFA: Upholstery Color Black
+SOFA: Product Details
+SOFA: Filling Material Foam
+SOFA: Finish Type Matte
+SOFA: It is always advisable to keep your furniture away from direct sunlight and places with high humidity levels. Always use coasters or mats to keep any hot object on the wooden furniture as it may get damaged by causing white rings or marks. Don’t use any strong agents to clean the furniture unless mentioned otherwise. Keep pointed and sharp objects away from your furniture as they can cause permanent scratched.
+SOFA: Adjustable Headrest No
+SOFA: Sofa set with two cushion
+SOFA: Dimensions
+SOFA: Width 187 cm
+SOFA: Height 76 cm
+SOFA: Depth 83 cm
+SOFA: Weight 65 kg
+SOFA: 2 Seater-Length (126 cm),1 Seater-Length(57 cm),Deewan-Length(185 cm), 3,1 Seater & Deewan-Width(82.9 cm),, 3,1 Seater & Deewan-Height(75.9 cm),, Seating Height (39.97 cm
+SOFA: For warranty claims or any product related issues please email at info@bharatlifestylefurniture.com 
+SOFA: Warranty of the product is limited to manufacturing defects only.
+SOFA: Warranty does not cover for Improper Handling and any kind of natural wear
+SOFA: The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings. - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises. - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels. - Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required. - In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles.
+SOFA: do u have the left side sofa set also same ? my driwing room is left side
+SOFA: yes
+SOFA: will the resting back of the pillow have cushion or its wood with cloth?
+SOFA: wood with cloth
+SOFA: are pilllows included...and do the back rest or arm rest have cushion?
+SOFA: yes, pillows are included and back rest and arm rest both have covered with thick cloth
+SOFA: What can I do to make my sofa last longer?
+SOFA: Avoid sitting on the arms of the sofas as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
+SOFA: Should I get a professional to clean it?
+SOFA: It is advisable to have your furniture cleaned regularly by professional upholstery cleaner as different fibres and fabric constructions require special treatment.
+SOFA: is it sofa cum bed
+SOFA: one side can be used like a diwan
+SOFA: What can I do to make my sofa last longer?
+SOFA: Avoid sitting on the arms of the sofas as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
+SOFA: What type of assembly is required for the sofa?
+SOFA: One of the three - 1) No assembly required (delivered pre-assembled) 2) DIY (Do it yourself/self assembly) 3) Knock Down (Requires installation/assembly which is done by flipkart partner free of cost)
+SOFA: Is the sofa as comfortable as it appears in the image?
+SOFA: It is natural for your new sofa to feel firmer than the display. This is because your sofa is brand new. Just like a pair of shoes, a sofa needs to be worn in. With regular use your sofa will soften.
+SOFA: How good is the fabric? Will the colour fade?
+SOFA: Direct sunlight over a prolonged period can cause fading and/or deterioration, so place them in a no sunlight zone. Clean your upholstery at least once a week with a soft brush or vacuum cleaner.
+SOFA: How do I know if the sofa will fit into my home.
+SOFA: The detailed sofa dimensions are highlighted in the images as well as in the description. It will be good to measure the door so that to ensure the sofa fits through the door.
+SOFA: can it become bed if yes mentio dimensions
+SOFA: Yes, the 3 seater one can be used as bed. Dimension of 3 seater one is 2.7ft x 6.1 ft.
+SOFA: What type of assembly is required for the sofa?
+SOFA: One of the three - 1) No assembly required (delivered pre-assembled) 2) DIY (Do it yourself/self assembly) 3) Knock Down (Requires installation/assembly which is done by flipkart partner free of cost)
+SOFA: total sofa made by wood or plywood or mixed ?
+SOFA: Quality is good, Very good packing, mixed
+SOFA: Should I get a professional to clean it?
+SOFA: It is advisable to have your furniture cleaned regularly by professional upholstery cleaner as different fibres and fabric constructions require special treatment.
+SOFA: How do I know if the sofa will fit into my home.
+SOFA: The detailed sofa dimensions are highlighted in the images as well as in the description. It will be good to measure the door so that to ensure the sofa fits through the door.
+SOFA: can we get hand rest right side
+SOFA: What is the density of the foam?
+SOFA: Cannot provide exact density. But the foam is quite thick . Comfortable to sit.
+SOFA: can single pullout be customised (reduced) by few (100) millimetres
+SOFA: Yes, it can be customized. I love the sofa and the dimensions are just perfect for my living room.
+SOFA: what to do to assemble the sofa within one week? means by 2nd october 17
+SOFA: You just have to Install the Plastic legs provided to you separately. rest all are pre assembled. You can install the bottom legs by yourself.
+SOFA: Which one used foam and plywood in inch?
+SOFA: it is foam, plywood is for skeleton only.
+SOFA: what is the foot made up of
+SOFA: Wood
+SOFA: whats the weight of this sofa set?
+SOFA: not too heavy
+SOFA: will it include teapoi
+SOFA: Is top sitting area very light grey? i am worried for maintenance of light color.
+SOFA: Yeah it is very light in colour. But you can use sofa covers for protection.
+SOFA: Will people come for sofa installation or should I do my self ??
+SOFA: No i did myself
+SOFA: measurements of length
+SOFA: L soaked length is 9' & 6' (6'on Diwan side)
+SOFA: How good is the fabric? Will the colour fade?
+SOFA: Direct sunlight over a prolonged period can cause fading and/or deterioration, so place them in a no sunlight zone. Clean your upholstery at least once a week with a soft brush or vacuum cleaner.
+SOFA: Is the sofa as comfortable as it appears in the image?
+SOFA: It is natural for your new sofa to feel firmer than the display. This is because your sofa is brand new. Just like a pair of shoes, a sofa needs to be worn in. With regular use your sofa will soften.
