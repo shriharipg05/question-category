@@ -1,0 +1,345 @@
+DINING: Seater capacity
+DINING: Seater capacity 2 Seater
+DINING: Seater capacity 4 Seater
+DINING: Seater capacity 6 Seater
+DINING: Seater capacity 8 Seater
+DINING: Seater capacity
+DINING: 2 Seater
+DINING: 4 Seater
+DINING: 6 Seater
+DINING: 8 Seater
+DINING: Engineered Wood
+DINING: Glass
+DINING: Leatherette
+DINING: Metal
+DINING: Plastic
+DINING: Solid Wood
+DINING: Stone
+DINING:  TABLE SHAPE
+DINING: Oval
+DINING: Rectangle
+DINING: Round
+DINING: Square
+DINING: Triangle
+DINING: Engineered Wood
+DINING: Glass
+DINING: Leatherette
+DINING: Metal
+DINING: Plastic
+DINING: Solid Wood
+DINING: Stone
+DINING:  TABLE SHAPE
+DINING: Oval
+DINING: Rectangle
+DINING: Round
+DINING: Square
+DINING: Triangle
+DINING: HomeTown
+DINING: Nilkamal
+DINING: @home by Nilkamal
+DINING: Woodness
+DINING: Urban Ladder
+DINING: Godrej Interio
+DINING: Eros
+DINING: Fischers Lifestyle
+DINING: Furnicity
+DINING: Induscraft
+DINING: FurnitureKraft
+DINING: The Attic
+DINING: Supreme
+DINING: Fabsy Interiors
+DINING: Saffron Art
+DINING: Durian
+DINING: Evok
+DINING: shop klass
+DINING: Berlynoak
+DINING: Parin
+DINING: Svelte
+DINING: Perfect Homes by Flipkart
+DINING: NIDOO
+DINING: Ethnic india art
+DINING: ExclusiveLane
+DINING: Shop Sting
+DINING: Home Edge
+DINING: Furnspace
+DINING: FurnCulture
+DINING: Ringabell
+DINING: Cello
+DINING: RoyalOak
+DINING: Tezerac
+DINING: Bharat Lifestyle HomeTown
+DINING: Nilkamal
+DINING: @home by Nilkamal
+DINING: Woodness
+DINING: Urban Ladder
+DINING: Godrej Interio
+DINING: Eros
+DINING: Fischers Lifestyle
+DINING: Furnicity
+DINING: Induscraft
+DINING: FurnitureKraft
+DINING: The Attic
+DINING: Supreme
+DINING: Fabsy Interiors
+DINING: Saffron Art
+DINING: Durian
+DINING: Evok
+DINING: shop klass
+DINING: Berlynoak
+DINING: Parin
+DINING: Svelte
+DINING: Perfect Homes by Flipkart
+DINING: NIDOO
+DINING: Ethnic india art
+DINING: ExclusiveLane
+DINING: Shop Sting
+DINING: Home Edge
+DINING: Furnspace
+DINING: FurnCulture
+DINING: Ringabell
+DINING: Cello
+DINING: RoyalOak
+DINING: Tezerac
+DINING: Bharat Lifestyle
+DINING: STORAGE INCLUDED
+DINING: Storage Included
+DINING: STORAGE INCLUDED
+DINING: Storage Included
+DINING:
+DINING: NUMBER OF CHAIRS
+DINING: 2
+DINING: 3
+DINING: 4
+DINING: 6
+DINING: 8 Beige
+DINING: Black
+DINING: Blue
+DINING: Brown
+DINING: Green
+DINING: Grey
+DINING: Multicolor
+DINING: Orange
+DINING: Red
+DINING: Silver
+DINING: White
+DINING: Yellow
+DINING: Maroon
+DINING: FOLDABLE
+DINING: Foldable
+DINING: FOLDABLE
+DINING: Foldable
+DINING: DELIVERY CONDITION
+DINING: DIY(Do-It-Yourself)
+DINING: Knock Down
+DINING: Pre-assembled
+DINING: DELIVERY CONDITION
+DINING: DIY(Do-It-Yourself)
+DINING: Knock Down
+DINING: Pre-assembled
+DINING: UPHOLSTERY INCLUDED
+DINING: Upholstery Included
+DINING: UPHOLSTERY INCLUDED
+DINING: Upholstery Included
+DINING: EXTENDABLE
+DINING: Extendable
+DINING: Woodness Solid Wood 8 Seater Dining Set  (Finish Color - Wenge)
+DINING: Table Top Material: Solid Wood
+DINING: Chair Frame: Solid Wood
+DINING: Upholstery Included
+DINING: Table (W x H x D): 1800 cm x 750 cm x 900 cm (24 ft 7 in x 59 ft x 29 ft 6 in)
+DINING: Knock Down - Delivered in non-assembled pieces, installation by service partner
+DINING: 1 month domestic Warranty
+DINING: Free Installation 
+DINING: Manufactured from eco-friendly Grade A Malaysian Rubberwood, this dining set features a simple silhouette with well balanced proportions creating a clean and contemporary look. The table top is supported by straight and sturdy legs which ensure maximum leg space. Paired with, straight-backed chairs, it makes for an elegant, inviting setup. A stain-resistant lacquer protects the distinctive grain pattern and natural feel of solid wood.
+DINING: Product Features
+DINING: Seating Capacity
+DINING: 8 Seater
+DINING: Upholstery Included
+DINING: Yes
+DINING: Upholstery Type
+DINING: Cushion
+DINING: Table Shape
+DINING: Rectangle
+DINING: Wheels Included
+DINING: No
+DINING: Bush Included
+DINING: No
+DINING: Other Table Features
+DINING: The table top is 20 mm thick and the legs are 80 mm thick.
+DINING: Other Chair Features
+DINING: Each chair is constructed with 40 mm thick legs and a 22 mm thick backrest. The upholstered chair seat is 40 mm thick.
+DINING: Material & Color
+DINING: Table Material
+DINING: Solid Wood
+DINING: Table Material Subtype
+DINING: Rubber Wood
+DINING: Chair Material
+DINING: Solid Wood
+DINING: Chair Material Subtype
+DINING: Rubber Wood
+DINING: Upholstery Material
+DINING: Leatherette
+DINING: Upholstery Color
+DINING: Black
+DINING: Primary Color
+DINING: Brown
+DINING: Finish Color
+DINING: Wenge
+DINING: Chair Dimensions
+DINING: Chair Width
+DINING: 450 cm
+DINING: Chair Height
+DINING: 900 cm
+DINING: Chair Depth
+DINING: 410 cm
+DINING: Chair Weight
+DINING: 15 kg
+DINING: Table Dimensions
+DINING: Table Width
+DINING: 1800 cm
+DINING: Table Height
+DINING: 750 cm
+DINING: Table Depth
+DINING: 900 cm
+DINING: Table Weight
+DINING: 45 kg
+DINING: Table Diameter
+DINING: 900 cm
+DINING: Warranty
+DINING: Warranty Summary
+DINING: 1 month domestic Warranty
+DINING: Service Type
+DINING: Service engineer will be sent to client
+DINING: Covered in Warranty
+DINING: Manufacturing Defects
+DINING: Not Covered in Warranty
+DINING: Other than manufacturing defects
+DINING: Installation & Demo
+DINING: Installation & Demo Details
+DINING: Installation and demo for this product is done free of cost as part of this purchase. Our service partner will visit your location within 72 business hours from the delivery of the product
+DINING: The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings
+DINING: Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises
+DINING: Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels
+DINING: Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required
+DINING: In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles
+DINING: If there is any defect after I receive, what should I do?
+DINING: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+DINING: How do I know the dining table fits into my home.
+DINING: The detailed dining table dimensions are highlighted in the images as well as in the description.
+DINING: Has anybody using it for long time? Are chairs durable?
+DINING: Chairs are Not very strong but if used cautiously can last long. Check for loosening of screws regularly
+DINING: Certified Buyer
+DINING: Cushion is available or not from the time of delivery? If it is available it's price included??
+DINING: Will the chairs cause friction/screeching sound against the floor?
+DINING: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
+DINING: How do I take care of my dining table?
+DINING: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
+DINING: HomeTown Artois Solid Wood 6 Seater Dining Set  (Finish Color - Dark Walnut)
+DINING: General
+DINING: Brand
+DINING: HomeTown
+DINING: Model Series Name
+DINING: Artois
+DINING: Number of Benches
+DINING: 1
+DINING: Number of Chairs
+DINING: 4
+DINING: Finish Type
+DINING: Matte
+DINING: Style
+DINING: Contemporary & Modern
+DINING: Delivery Condition
+DINING: Knock Down
+DINING: Care Instructions
+DINING: Wipe clean with a cloth, No Water
+DINING: Product Features
+DINING: Seating Capacity
+DINING: 6 Seater
+DINING: Upholstery Included
+DINING: Yes
+DINING: Upholstery Type
+DINING: Tufted
+DINING: Storage Included
+DINING: No
+DINING: Table Shape
+DINING: Rectangle
+DINING: Extendable
+DINING: No
+DINING: Foldable
+DINING: No
+DINING: Material & Color
+DINING: Table Material
+DINING: Solid Wood
+DINING: Table Material Subtype
+DINING: Rubber Wood
+DINING: Chair Material
+DINING: Engineered Wood
+DINING: Chair Material Subtype
+DINING: MDF
+DINING: Upholstery Material
+DINING: Cotton Blend
+DINING: Upholstery Color
+DINING: Walnut
+DINING: Primary Color
+DINING: Brown
+DINING: Finish Color
+DINING: Dark Walnut
+DINING: Chair Dimensions
+DINING: Chair Width
+DINING: 40.5 cm
+DINING: Chair Height
+DINING: 90 cm
+DINING: Chair Depth
+DINING: 43 cm
+DINING: Chair Weight
+DINING: 8 kg
+DINING: Table Dimensions
+DINING: Table Width
+DINING: 90 cm
+DINING: Table Height
+DINING: 73 cm
+DINING: Table Depth
+DINING: 150 cm
+DINING: Table Weight
+DINING: 45 kg
+DINING: Warranty
+DINING: Warranty Summary
+DINING: 1 Year HomeTown Manufacturing Warranty
+DINING: Service Type
+DINING: On-site Service, Customer needs to call the nearby Authorized Service Center, service engineer will come to the site to get the product repaired or inspected
+DINING: Covered in Warranty
+DINING: HomeTown provides 1 Year Manufacturing Warranty against manufacturing defects
+DINING: Not Covered in Warranty
+DINING: Warranty does not cover any external accessories
+DINING: Is this made of particle board?
+DINING: No. It is not particle board. It is what they call solid wood. I am using it for past 6 months. Its strong and good looking. Different from the usual flimsy ones that we get for 15K.
+DINING: If there is any defect after I receive, what should I do?
+DINING: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+DINING: Will the chairs cause friction/screeching sound against the floor?
+DINING: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
+DINING: What all does this include? I mean Chairs, bench and table as well?
+DINING: Yes, it includes chairs, bench and table as well.
+DINING: How to install table
+DINING: Installation personnel from Flipkart will install and give demo for future shifting
+DINING: How do I know the dining table fits into my home.
+The detailed dining table dimensions are highlighted in the images as well as in the description.
+DINING: How do I take care of my dining table?
+DINING: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
+DINING: is it durable ??
+DINING: it's ok for the price you are paying.
+DINING: RoyalOak COCO Solid Wood 4 Seater Dining Set  (Finish Color - Walnut)
+DINING: How do I know the dining table fits into my home.
+DINING: The detailed dining table dimensions are highlighted in the images as well as in the description.
+DINING: If there is any defect after I receive, what should I do?
+DINING: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+DINING: can you supply this minus chairs? and the center frame is teak wood?
+DINING: Center table is made of multiple wedges of solid wood which are pasted and joined together. The table top rests on a single leg which makes the table wobble and rotate. Joints are weak and unstable.
+DINING: How do I take care of my dining table?
+DINING: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
+DINING: Will the chairs cause friction/screeching sound against the floor?
+DINING: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
+DINING: Type of solid wood
+DINING: Oak rubber plant
+DINING: Can we only buy the chairs and not the table ?
+DINING: yes you can.
+
