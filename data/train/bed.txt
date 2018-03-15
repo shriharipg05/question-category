@@ -1,0 +1,459 @@
+BED: HomeTown
+BED: Nilkamal
+BED: @home by Nilkamal
+BED: Camabeds
+BED: Woodness
+BED: Eros
+BED: Furnicity
+BED: Induscraft
+BED: Woodbeei
+BED: UNiCOS
+BED: FurnitureKraft
+BED: Vintej Home
+BED: The Attic
+BED: Saffron Art
+BED: Peachtree
+BED: Durian
+BED: Debono
+BED: Evok
+BED: Crystal Furnitech
+BED: shop klass
+BED: advancedestore
+BED: Glenco
+BED: Auspicious Home
+BED: Parin
+BED: Decor Modular
+BED: NIDOO
+BED: VJ
+BED: Jay-Be
+BED: Valtos
+BED: Home Edge
+BED: Spacewood
+BED: Bharat Lifestyle
+BED: Delite Kom
+BED: RoyalOak
+BED: Disney
+BED: Dovetail
+BED: BED SIZE
+BED: King
+BED: Queen
+BED: Single
+BED: BED SIZE
+BED: King
+BED: Queen
+BED: Single
+BED: BED SIZE
+BED: King
+BED: Queen
+BED: Single
+BED: PRIMARY MATERIAL
+BED: Engineered Wood
+BED: Fabric
+BED: Leatherette
+BED: Metal
+BED: Natural Fiber
+BED: Solid Wood
+BED: Half-leather
+BED: Steel
+BED: PRIMARY MATERIAL
+BED: Engineered Wood
+BED: Fabric
+BED: Leatherette
+BED: Metal
+BED: Natural Fiber
+BED: Solid Wood
+BED: Half-leather
+BED: Steel
+BED: PRIMARY MATERIAL
+BED: Engineered Wood
+BED: Fabric
+BED: Leatherette
+BED: Metal
+BED: Natural Fiber
+BED: Solid Wood
+BED: Half-leather
+BED: Steel
+BED: STORAGE TYPE
+BED: Box
+BED: Drawer
+BED: Hydraulic
+BED: NA
+BED: STORAGE TYPE
+BED: Box
+BED: Drawer
+BED: Hydraulic
+BED: NA
+BED: HEADBOARD TYPE
+BED: Basic
+BED: Closed Storage
+BED: Open & Closed Storage
+BED: BED: Open Storage
+BED: Upholstered
+BED: HEADBOARD TYPE
+BED: Basic
+BED: Closed Storage
+BED: Open & Closed Storage
+BED: Open Storage
+BED: Upholstered
+BED: HEADBOARD TYPE
+BED: Basic
+BED: Closed Storage
+BED: Open & Closed Storage
+BED: Open Storage
+BED: Upholstered
+BED: PRIMARY COLOR
+BED: Beige
+BED: Black
+BED: Blue
+BED: Brown
+BED: Green
+BED: Grey
+BED: Multicolor
+BED: Purple
+BED: Red
+BED: Silver
+BED: White
+BED: Yellow
+BED: Maroon
+BED: Orange
+BED: Pink
+BED: PRIMARY COLOR
+BED: Beige
+BED: Black
+BED: Blue
+BED: Brown
+BED: Green
+BED: Grey
+BED: Multicolor
+BED: Purple
+BED: Red
+BED: Silver
+BED: White
+BED: Yellow
+BED: Maroon
+BED: Orange
+BED: Pink
+BED: WITH MATTRESS
+BED: With Mattress
+BED: WITH MATTRESS
+BED: With Mattress
+BED: WITH MATTRESS
+BED: With Mattress
+BED: HEADBOARD INCLUDED
+BED: Headboard Included
+BED: size of matress required/suitable for this bed
+BED: Width: 60 inch, Length: 78 inch,
+BED: this product is sagwan
+BED: it is engineered wood. durable but contact with water to be avoided. sturdy product. dismantling and assembly may be problematic. otherwise good product overall
+BED: this bed king size
+BED: yes
+BED: is the mattress included?
+BED: No. Mattress is not included. Please choose from our wide range of mattresses at affordable prices.
+BED: Do I need to assemble the furniture by myself?
+BED: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
+BED: may i ask which size mattress will fit to this bed?
+BED: 78 * 60
+BED: is this bed foldable or not ?
+BED: Its not foldable and if you want to move another room then you have to uninstall all the bed and for that work you have to pay 800 INR ....So Im not recommending this bed to any one.
+BED: Will the color/polish be exactly the same as it appears on screen?
+BED: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
+BED: Is the best we saw is 6*6 or 4*4
+BED: 6*6
+BED: what type wood it is
+BED: plywood
+BED: How to clean these furnitures aart from dusting with dry clothes?
+BED: yes dry clotb
+BED: Is it possible to reduce the width by an inch or two during assembly?
+BED: No its not possible coz....if u do so same will not get assembled then actually my mother had also purchased the same item and she did the same mistake..
+BED: box is available in this??
+BED: Yes
+BED: is this product contains matress r not
+BED: no
+BED: Is it double bed size. Is demo n installation done by time.
+BED: The size of the bed is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
+BED: What is Engineered wood? Is it durable?
+BED: Engineered wood, includes a range of wood products which are made by binding boards of wood with adhesives, to produce a stronger and stiffer composite unit than the sum of the individual parts.
+BED: If there is any defect after I receive the product, what should I do?
+BED: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+BED: My flat is on 5th floor of the building. Will they deliver at my doorstep or at just bottom of my building?
+BED: They will require some help in bringing the parts up as only two people are with the delivery and parts are heavy. At least one person is must to support them.
+BED: how it will be measured
+BED: it's a queen size bed which need mattress of 60"x80".
+BED: is this with matress??
+BED: no its not with matress.
+BED: Is bed and matterss are included in this product
+BED: No matteress
+BED: Has it gives mattress jointly ?
+BED: It doesn't give mattress. You have to buy it separately if you need one.
+BED: Can we fix it to the ground?
+BED: no i cannot be fixed to ground
+BED: is bed water resistant have at bottom side
+BED: no but plastic pin is thr.
+BED: is that bed have water resistant boots at the bottom side
+BED: No it has no water resistant boots
+BED: is the bed dispatchable
+BED: yes
+BED: full complete form pillow with ready
+BED: Very nice and looking modern bedroom I like somuch and recommend
+BED: My friend was trying to book this bed but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that bed is not booked.how can get mony which flipkart deducted?
+BED: Money should be refunded automatically within 3-4 days. Call flipkart after 5 days if you dont get it.
+BED: what type of wood is used in this cot
+BED: engineered wood
+BED: How much human weight can the bed handle. I mean maximum?
+BED: maximum 4 persons.
+BED: Is it matte finish ?
+BED: it's kind of matte..wil natural shine of wood.
+BED: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of bed side/front/back planks
+BED: 18mm the, storage Chambers under the mattress. not recommended for transferor's.
+BED: Can we dismantle and assemble it by ourselves while shifting or carpenter can only do. Does it assemble through nuts and bolts?
+BED: No we can't dismantle or assemble it by yourself, it must be done by expert.
+BED: Is there trolley for front storage?
+BED: no trolley for front storage...
+BED: plywood available for ground of bed...if available is it removable or permanent fixed
+BED: removable
+BED: included with matres?
+BED: no..there was no matress
+BED: can you provide 7feet width
+BED: it is clearly mentioned queen size. queen size means 5'X6'5"
+BED: will be getting mattres with this bed or only body of the bed.just confusing about this. also confirm what will be getting along with this bed
+BED: no mattress. only body of bed. it has under body storage
+BED: Can we pay emi by net banking
+BED: yes
+BED: is pillow is give with this bed?
+BED: No, it's only the cot. mattress and pillows not included.
+BED: what is height of bed? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of bed can be increased?
+BED: Its hight slightly short and if it can increased by 4" then we can say this product is good. Only good because it's rate is very much high. This product is not more than Rs. 12000/-
+BED: what is the height of storage box
+BED: 221cm
+BED: which material is used for this cot..can it last years
+BED: It is engineered wood. It can last for years provided you maintain properly with out much contact with water. Try not to shift it and if you are shifting, you should do only after disassemling it.
+BED: can sleep 4 people in this bed
+BED: ya two adults and two children can sleep comfortably in this bed
+BED: how many people can sleep in this bed
+BED: Easily 4
+BED: is it includes mattresses
+BED: No we should buy
+BED: what is the weight of this bed?
+BED: 130 kg approximately
+BED: what is the thickness of upper foldable engineer wood ?
+BED: around .75 inch approx
+BED: what is the size of bed?
+BED: 78X60X6
+BED: Material Subtype: Particle Board
+BED: W x H x D: 189 cm x 90 cm x 221 cm (6 ft 2 in x 2 ft 11 in x 7 ft 3 in)
+BED: Knock Down - Delivered in non-assembled pieces, installation by service partner
+BED: Sales Package
+BED: 1 King Bed
+BED: Model Number
+BED: Mayflower King Bed
+BED: Model Series Name
+BED: Mayflower
+BED: Style Code
+BED: Mayflower 1
+BED: Bed Size
+BED: King
+BED: Bed Type
+BED: Platform
+BED: Delivery Condition
+BED: Knock Down
+BED: Primary Color
+BED: Brown
+BED: Suitable For
+BED: Bedroom
+BED: Storage Included
+BED: Yes
+BED: With Mattress
+BED: No
+BED: Body And Design Details
+BED: Bed Material
+BED: Engineered Wood
+BED: Bed Material Subtype
+BED: Particle Board
+BED: Headboard Material
+BED: Engineered Wood
+BED: Upholstery Included
+BED: No
+BED: Finish Type
+BED: Melamine
+BED: Finish Color
+BED: Vermount
+BED: Storage Type
+BED: Box
+BED: Headboard Type
+BED: Open & Closed Storage
+BED: Other Details
+BED: Style
+BED: Contemporary & Modern
+BED: Platform
+BED: No
+BED: Care Instructions
+BED: Do not move or push without dismantling. Do not use acid to clean. Do not abuse closing by legs. Use dry cloth to wipe furniture. Do not lift the furniture by holding top. Do not put water on it. Do not expose to sun
+BED: Low Profile
+BED: No
+BED: Headboard Included
+BED: Yes
+BED: Headboard Type
+BED: Open & Closed Storage
+BED: Dimensions
+BED: Width
+BED: 189 cm
+BED: Height
+BED: 90 cm
+BED: Depth
+BED: 221 cm
+BED: Weight
+BED: 140 kg
+BED: Recommended Mattress Size
+BED: Length= 78 inches x Width = 72 inches
+BED: Warranty
+BED: Warranty Summary
+BED: 3 Years manufacturing warranty
+BED: Warranty Service Type
+BED: Part replacement and spare part
+BED: Covered in Warranty
+BED: Manufacturing Defects in product ,termite & fungus,colour fading & product falure( As Per Warranty Card T&C's)
+BED: Not Covered in Warranty
+BED: Damages due to misuse,tampering,natural calamity,negligence,unauthorised usage,continous contact of water
+BED: size of matress required/suitable for this bed
+BED: Width: 60 inch, Length: 78 inch,
+BED: this product is sagwan
+BED: it is engineered wood. durable but contact with water to be avoided. sturdy product. dismantling and assembly may be problematic. otherwise good product overall
+BED: this bed king size
+BED: yes
+BED: Is the mattress included?
+BED: No. Mattress is not included. Please choose from our wide range of mattresses at affordable prices.
+BED: Do I need to assemble the furniture by myself?
+BED: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
+BED: may i ask which size mattress will fit to this bed?
+BED: 78 * 60
+BED: is this bed foldable or not ?
+BED: Its not foldable and if you want to move another room then you have to uninstall all the bed and for that work you have to pay 800 INR ....So Im not recommending this bed to any one.
+BED: Will the color/polish be exactly the same as it appears on screen?
+BED: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
+BED: Is the best we saw is 6*6 or 4*4
+BED: 6*6
+BED: what type wood it is
+BED: plywood
+BED: How to clean these furnitures aart from dusting with dry clothes?
+BED: yes dry clotb
+BED: Is it possible to reduce the width by an inch or two during assembly?
+BED: No its not possible coz....if u do so same will not get assembled then actually my mother had also purchased the same item and she did the same mistake..
+BED: box is available in this??
+BED: Yes
+BED: is this product contains matress r not
+BED: no
+BED: Is it double bed size. Is demo n installation done by time.
+BED: The size of the bed is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
+BED: What is Engineered wood? Is it durable?
+BED: Engineered wood, includes a range of wood products which are made by binding boards of wood with adhesives, to produce a stronger and stiffer composite unit than the sum of the individual parts.
+BED: If there is any defect after I receive the product, what should I do?
+BED: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+BED: My flat is on 5th floor of the building. Will they deliver at my doorstep or at just bottom of my building?
+BED: They will require some help in bringing the parts up as only two people are with the delivery and parts are heavy. At least one person is must to support them.
+BED: how it will be measured
+BED: it's a queen size bed which need mattress of 60"x80".
+BED: is this with matress??
+BED: no its not with matress.
+BED: Is bed and matterss are included in this product
+BED: No matteress
+BED: Has it gives mattress jointly ?
+BED: It doesn't give mattress. You have to buy it separately if you need one.
+BED: Can we fix it to the ground?
+BED: no i cannot be fixed to ground
+BED: is bed water resistant have at bottom side
+BED: no but plastic pin is thr.
+BED: is that bed have water resistant boots at the bottom side
+BED: No it has no water resistant boots
+BED: is the bed dispatchable
+BED: yes
+BED: full complete form pillow with ready
+BED: Very nice and looking modern bedroom I like somuch and recommend
+BED: My friend was trying to book this bed but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that bed is not booked.how can get mony which flipkart deducted?
+BED: Money should be refunded automatically within 3-4 days. Call flipkart after 5 days if you dont get it.
+BED: what type of wood is used in this cot
+BED: engineered wood
+BED: How much human weight can the bed handle. I mean maximum?
+BED: maximum 4 persons.
+BED: is it matte finish 
+BED: it's kind of matte..wil natural shine of wood.
+BED: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of bed side/front/back planks
+BED: 18mm the, storage Chambers under the mattress. not recommended for transferor's.
+BED: Can we dismantle and assemble it by ourselves while shifting or carpenter can only do. Does it assemble through nuts and bolts?
+BED: No we can't dismantle or assemble it by yourself, it must be done by expert.
+BED: Is there trolley for front storage?
+BED: no trolley for front storage...
+BED: plywood available for ground of bed...if available is it removable or permanent fixed
+BED: removable
+BED: included with matres?
+BED: no..there was no matress
+BED: can you provide 7feet width
+BED: it is clearly mentioned queen size. queen size means 5'X6'5"
+BED: will be getting mattres with this bed or only body of the bed.just confusing about this. also confirm what will be getting along with this bed
+BED: no mattress. only body of bed. it has under body storage
+BED: can we pay imi by net banking
+BED: yes
+BED: is pillow is give with this bed?
+BED: No, it's only the cot. mattress and pillows not included.
+BED: what is height of bed? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of bed can be increased?
+BED: Its hight slightly short and if it can increased by 4" then we can say this product is good. Only good because it's rate is very much high. This product is not more than Rs. 12000/-
+BED: what is the height of storage box
+BED: 221cm
+BED: which material is used for this cot..can it last years
+BED: It is engineered wood. It can last for years provided you maintain properly with out much contact with water. Try not to shift it and if you are shifting, you should do only after disassemling it.
+BED: can sleep 4 people in this bed
+BED: ya two adults and two children can sleep comfortably in this bed
+BED: how many people can sleep in this bed
+BED: Easily 4
+BED: is it includes mattresses
+BED: Noooo we should buy
+BED: what is the weight of this bed?
+BED: 130 kg approximately
+BED: what is the thickness of upper foldable engineer wood ?
+BED: around .75 inch approx
+BED: what is the size of bed?
+BED: 78X60X6
+BED: Will it be suitable for two adults?
+BED: Not too much, it's low hight bed also and having no storage. Plyboard sheet is aslo not too good.
+BED: Is there has a storage section for keeping bed stuff n all
+BED: NO
+BED: What is the load capacity.?
+BED: 2 persons
+BED: Is the mattress included?
+BED: No. Mattress is not included. Please choose from our wide range of mattresses at affordable prices.
+BED: what is Engineered wood? Is it durable?
+BED: Engineered wood, includes a range of wood products which are made by binding boards of wood with adhesives, to produce a stronger and stiffer composite unit than the sum of the individual parts.
+BED: If there is any defect after I receive the product, what should I do?
+BED: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
+BED: Do I need to assemble the furniture by myself?
+BED: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
+BED: is it includes with mattress ana pillows?
+BED: No
+BED: Could you please confirm me storage size? look like we could use half length of the bed. Please confirm
+BED: Actually I have not done the installation yet.But it is very good product.. you can buy it.
+BED: Will the color/polish be exactly the same as it appears on screen?
+BED: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
+BED: who will be setting.?
+BED: BED: spacewood companies people will come for the settings for it bed
+BED: this bed is double or single
+BED: Double
+BED: This Bed Making with which Wood ?
+BED: its engineered wood. basically particlea of wood (unknown type) are compressed with chemicals and adhesive. can last 10+ yrs depending on how you maintain. do not clean with water and keep it dry.
+BED: What is the bed size?
+BED: king size
+BED: Will I get mattress along with bed?
+BED: No
+BED: what dimensions of the mattress can choose for this bed?
+BED: I picked 78*72*6 inches. Still there is an inch gap near the headspace. Anyway this would be the best standard size available. If possible go for higher thickness as even 6 inches feels low for this.
+BED: Required Matress size..?
+BED: 6/6.5 ft..
+BED: can three people sleep on this bed
+BED: 2 adults or 3 kids can sleep well on this bed
+BED: does this come with BED??
+BED: it's a king size bed as per description
+BED: what are the dimensions for buying a mattress for this bed??
+BED: 78 L # 60 W
+BED: is it detachable
+BED: Yup....
+BED: how many sleep on bed
+BED: Two Adult and 01 Kid with Total Weight of 170 Kg
+BED: how many part of this bed
