@@ -1,7 +1,7 @@
 FURNITURE: HomeTown
 FURNITURE: Nilkamal
 FURNITURE: @home by Nilkamal
-FURNITURE: CamaFURNITUREs
+FURNITURE: Camabeds
 FURNITURE: Woodness
 FURNITURE: Eros
 FURNITURE: Furnicity
@@ -141,20 +141,20 @@ FURNITURE: WITH MATTRESS
 FURNITURE: With Mattress
 FURNITURE: HEADBOARD INCLUDED
 FURNITURE: Headboard Included
-FURNITURE: size of matress required/suitable for this FURNITURE
+FURNITURE: size of matress required/suitable for this bed
 FURNITURE: Width: 60 inch, Length: 78 inch,
 FURNITURE: this product is sagwan
 FURNITURE: it is engineered wood. durable but contact with water to be avoided. sturdy product. dismantling and assembly may be problematic. otherwise good product overall
-FURNITURE: this FURNITURE king size
+FURNITURE: this bed king size
 FURNITURE: yes
 FURNITURE: is the mattress included?
 FURNITURE: No. Mattress is not included. Please choose from our wide range of mattresses at affordable prices.
 FURNITURE: Do I need to assemble the furniture by myself?
 FURNITURE: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
-FURNITURE: may i ask which size mattress will fit to this FURNITURE?
+FURNITURE: may i ask which size mattress will fit to this bed?
 FURNITURE: 78 * 60
-FURNITURE: is this FURNITURE foldable or not ?
-FURNITURE: Its not foldable and if you want to move another room then you have to uninstall all the FURNITURE and for that work you have to pay 800 INR ....So Im not recommending this FURNITURE to any one.
+FURNITURE: is this bed foldable or not ?
+FURNITURE: Its not foldable and if you want to move another room then you have to uninstall all the bed and for that work you have to pay 800 INR ....So Im not recommending this bed to any one.
 FURNITURE: Will the color/polish be exactly the same as it appears on screen?
 FURNITURE: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
 FURNITURE: Is the best we saw is 6*6 or 4*4
@@ -169,8 +169,8 @@ FURNITURE: box is available in this??
 FURNITURE: Yes
 FURNITURE: is this product contains matress r not
 FURNITURE: no
-FURNITURE: Is it double FURNITURE size. Is demo n installation done by time.
-FURNITURE: The size of the FURNITURE is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
+FURNITURE: Is it double bed size. Is demo n installation done by time.
+FURNITURE: The size of the bed is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
 FURNITURE: What is Engineered wood? Is it durable?
 FURNITURE: Engineered wood, includes a range of wood products which are made by binding boards of wood with adhesives, to produce a stronger and stiffer composite unit than the sum of the individual parts.
 FURNITURE: If there is any defect after I receive the product, what should I do?
@@ -178,96 +178,96 @@ FURNITURE: If there are any manufacturing defect, please notify us immediately a
 FURNITURE: My flat is on 5th floor of the building. Will they deliver at my doorstep or at just bottom of my building?
 FURNITURE: They will require some help in bringing the parts up as only two people are with the delivery and parts are heavy. At least one person is must to support them.
 FURNITURE: how it will be measured
-FURNITURE: it's a queen size FURNITURE which need mattress of 60"x80".
+FURNITURE: it's a queen size bed which need mattress of 60"x80".
 FURNITURE: is this with matress??
 FURNITURE: no its not with matress.
-FURNITURE: Is FURNITURE and matterss are included in this product
+FURNITURE: Is bed and matterss are included in this product
 FURNITURE: No matteress
 FURNITURE: Has it gives mattress jointly ?
 FURNITURE: It doesn't give mattress. You have to buy it separately if you need one.
 FURNITURE: Can we fix it to the ground?
 FURNITURE: no i cannot be fixed to ground
-FURNITURE: is FURNITURE water resistant have at bottom side
+FURNITURE: is bed water resistant have at bottom side
 FURNITURE: no but plastic pin is thr.
-FURNITURE: is that FURNITURE have water resistant boots at the bottom side
+FURNITURE: is that bed have water resistant boots at the bottom side
 FURNITURE: No it has no water resistant boots
-FURNITURE: is the FURNITURE dispatchable
+FURNITURE: is the bed dispatchable
 FURNITURE: yes
 FURNITURE: full complete form pillow with ready
-FURNITURE: Very nice and looking modern FURNITUREroom I like somuch and recommend
-FURNITURE: My friend was trying to book this FURNITURE but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that FURNITURE is not booked.how can get mony which flipkart deducted?
+FURNITURE: Very nice and looking modern bedroom I like somuch and recommend
+FURNITURE: My friend was trying to book this bed but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that bed is not booked.how can get mony which flipkart deducted?
 FURNITURE: Money should be refunded automatically within 3-4 days. Call flipkart after 5 days if you dont get it.
 FURNITURE: what type of wood is used in this cot
 FURNITURE: engineered wood
-FURNITURE: How much human weight can the FURNITURE handle. I mean maximum?
+FURNITURE: How much human weight can the bed handle. I mean maximum?
 FURNITURE: maximum 4 persons.
 FURNITURE: Is it matte finish ?
 FURNITURE: it's kind of matte..wil natural shine of wood.
-FURNITURE: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of FURNITURE side/front/back planks
+FURNITURE: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of bed side/front/back planks
 FURNITURE: 18mm the, storage Chambers under the mattress. not recommended for transferor's.
 FURNITURE: Can we dismantle and assemble it by ourselves while shifting or carpenter can only do. Does it assemble through nuts and bolts?
 FURNITURE: No we can't dismantle or assemble it by yourself, it must be done by expert.
 FURNITURE: Is there trolley for front storage?
 FURNITURE: no trolley for front storage...
-FURNITURE: plywood available for ground of FURNITURE...if available is it removable or permanent fixed
+FURNITURE: plywood available for ground of bed...if available is it removable or permanent fixed
 FURNITURE: removable
 FURNITURE: included with matres?
 FURNITURE: no..there was no matress
 FURNITURE: can you provide 7feet width
 FURNITURE: it is clearly mentioned queen size. queen size means 5'X6'5"
-FURNITURE: will be getting mattres with this FURNITURE or only body of the FURNITURE.just confusing about this. also confirm what will be getting along with this FURNITURE
-FURNITURE: no mattress. only body of FURNITURE. it has under body storage
+FURNITURE: will be getting mattres with this bed or only body of the bed.just confusing about this. also confirm what will be getting along with this bed
+FURNITURE: no mattress. only body of bed. it has under body storage
 FURNITURE: Can we pay emi by net banking
 FURNITURE: yes
-FURNITURE: is pillow is give with this FURNITURE?
+FURNITURE: is pillow is give with this bed?
 FURNITURE: No, it's only the cot. mattress and pillows not included.
-FURNITURE: what is height of FURNITURE? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of FURNITURE can be increased?
+FURNITURE: what is height of bed? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of bed can be increased?
 FURNITURE: Its hight slightly short and if it can increased by 4" then we can say this product is good. Only good because it's rate is very much high. This product is not more than Rs. 12000/-
 FURNITURE: what is the height of storage box
 FURNITURE: 221cm
 FURNITURE: which material is used for this cot..can it last years
 FURNITURE: It is engineered wood. It can last for years provided you maintain properly with out much contact with water. Try not to shift it and if you are shifting, you should do only after disassemling it.
-FURNITURE: can sleep 4 people in this FURNITURE
-FURNITURE: ya two adults and two children can sleep comfortably in this FURNITURE
-FURNITURE: how many people can sleep in this FURNITURE
+FURNITURE: can sleep 4 people in this bed
+FURNITURE: ya two adults and two children can sleep comfortably in this bed
+FURNITURE: how many people can sleep in this bed
 FURNITURE: Easily 4
 FURNITURE: is it includes mattresses
 FURNITURE: No we should buy
-FURNITURE: what is the weight of this FURNITURE?
+FURNITURE: what is the weight of this bed?
 FURNITURE: 130 kg approximately
 FURNITURE: what is the thickness of upper foldable engineer wood ?
 FURNITURE: around .75 inch approx
-FURNITURE: what is the size of FURNITURE?
+FURNITURE: what is the size of bed?
 FURNITURE: 78X60X6
 FURNITURE: Material Subtype: Particle Board
 FURNITURE: W x H x D: 189 cm x 90 cm x 221 cm (6 ft 2 in x 2 ft 11 in x 7 ft 3 in)
 FURNITURE: Knock Down - Delivered in non-assembled pieces, installation by service partner
 FURNITURE: Sales Package
-FURNITURE: 1 King FURNITURE
+FURNITURE: 1 King Bed
 FURNITURE: Model Number
-FURNITURE: Mayflower King FURNITURE
+FURNITURE: Mayflower King Bed
 FURNITURE: Model Series Name
 FURNITURE: Mayflower
 FURNITURE: Style Code
 FURNITURE: Mayflower 1
-FURNITURE: FURNITURE Size
+FURNITURE: Bed Size
 FURNITURE: King
-FURNITURE: FURNITURE Type
+FURNITURE: Bed Type
 FURNITURE: Platform
 FURNITURE: Delivery Condition
 FURNITURE: Knock Down
 FURNITURE: Primary Color
 FURNITURE: Brown
 FURNITURE: Suitable For
-FURNITURE: FURNITUREroom
+FURNITURE: Bedroom
 FURNITURE: Storage Included
 FURNITURE: Yes
 FURNITURE: With Mattress
 FURNITURE: No
 FURNITURE: Body And Design Details
-FURNITURE: FURNITURE Material
+FURNITURE: Bed Material
 FURNITURE: Engineered Wood
-FURNITURE: FURNITURE Material Subtype
+FURNITURE: Bed Material Subtype
 FURNITURE: Particle Board
 FURNITURE: Headboard Material
 FURNITURE: Engineered Wood
@@ -314,20 +314,20 @@ FURNITURE: Covered in Warranty
 FURNITURE: Manufacturing Defects in product ,termite & fungus,colour fading & product falure( As Per Warranty Card T&C's)
 FURNITURE: Not Covered in Warranty
 FURNITURE: Damages due to misuse,tampering,natural calamity,negligence,unauthorised usage,continous contact of water
-FURNITURE: size of matress required/suitable for this FURNITURE
+FURNITURE: size of matress required/suitable for this bed
 FURNITURE: Width: 60 inch, Length: 78 inch,
 FURNITURE: this product is sagwan
 FURNITURE: it is engineered wood. durable but contact with water to be avoided. sturdy product. dismantling and assembly may be problematic. otherwise good product overall
-FURNITURE: this FURNITURE king size
+FURNITURE: this bed king size
 FURNITURE: yes
 FURNITURE: Is the mattress included?
 FURNITURE: No. Mattress is not included. Please choose from our wide range of mattresses at affordable prices.
 FURNITURE: Do I need to assemble the furniture by myself?
 FURNITURE: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
-FURNITURE: may i ask which size mattress will fit to this FURNITURE?
+FURNITURE: may i ask which size mattress will fit to this bed?
 FURNITURE: 78 * 60
-FURNITURE: is this FURNITURE foldable or not ?
-FURNITURE: Its not foldable and if you want to move another room then you have to uninstall all the FURNITURE and for that work you have to pay 800 INR ....So Im not recommending this FURNITURE to any one.
+FURNITURE: is this bed foldable or not ?
+FURNITURE: Its not foldable and if you want to move another room then you have to uninstall all the bed and for that work you have to pay 800 INR ....So Im not recommending this bed to any one.
 FURNITURE: Will the color/polish be exactly the same as it appears on screen?
 FURNITURE: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
 FURNITURE: Is the best we saw is 6*6 or 4*4
@@ -342,8 +342,8 @@ FURNITURE: box is available in this??
 FURNITURE: Yes
 FURNITURE: is this product contains matress r not
 FURNITURE: no
-FURNITURE: Is it double FURNITURE size. Is demo n installation done by time.
-FURNITURE: The size of the FURNITURE is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
+FURNITURE: Is it double bed size. Is demo n installation done by time.
+FURNITURE: The size of the bed is 78 * 60 inches and the demo and installation will be done by time by the local third party provider (in my current location)
 FURNITURE: What is Engineered wood? Is it durable?
 FURNITURE: Engineered wood, includes a range of wood products which are made by binding boards of wood with adhesives, to produce a stronger and stiffer composite unit than the sum of the individual parts.
 FURNITURE: If there is any defect after I receive the product, what should I do?
@@ -351,70 +351,70 @@ FURNITURE: If there are any manufacturing defect, please notify us immediately a
 FURNITURE: My flat is on 5th floor of the building. Will they deliver at my doorstep or at just bottom of my building?
 FURNITURE: They will require some help in bringing the parts up as only two people are with the delivery and parts are heavy. At least one person is must to support them.
 FURNITURE: how it will be measured
-FURNITURE: it's a queen size FURNITURE which need mattress of 60"x80".
+FURNITURE: it's a queen size bed which need mattress of 60"x80".
 FURNITURE: is this with matress??
 FURNITURE: no its not with matress.
-FURNITURE: Is FURNITURE and matterss are included in this product
+FURNITURE: Is bed and matterss are included in this product
 FURNITURE: No matteress
 FURNITURE: Has it gives mattress jointly ?
 FURNITURE: It doesn't give mattress. You have to buy it separately if you need one.
 FURNITURE: Can we fix it to the ground?
 FURNITURE: no i cannot be fixed to ground
-FURNITURE: is FURNITURE water resistant have at bottom side
+FURNITURE: is bed water resistant have at bottom side
 FURNITURE: no but plastic pin is thr.
-FURNITURE: is that FURNITURE have water resistant boots at the bottom side
+FURNITURE: is that bed have water resistant boots at the bottom side
 FURNITURE: No it has no water resistant boots
-FURNITURE: is the FURNITURE dispatchable
+FURNITURE: is the bed dispatchable
 FURNITURE: yes
 FURNITURE: full complete form pillow with ready
-FURNITURE: Very nice and looking modern FURNITUREroom I like somuch and recommend
-FURNITURE: My friend was trying to book this FURNITURE but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that FURNITURE is not booked.how can get mony which flipkart deducted?
+FURNITURE: Very nice and looking modern bedroom I like somuch and recommend
+FURNITURE: My friend was trying to book this bed but amount was deduct from bank accaunt but still no booking is shown.flipkart customercare said that bed is not booked.how can get mony which flipkart deducted?
 FURNITURE: Money should be refunded automatically within 3-4 days. Call flipkart after 5 days if you dont get it.
 FURNITURE: what type of wood is used in this cot
 FURNITURE: engineered wood
-FURNITURE: How much human weight can the FURNITURE handle. I mean maximum?
+FURNITURE: How much human weight can the bed handle. I mean maximum?
 FURNITURE: maximum 4 persons.
 FURNITURE: is it matte finish 
 FURNITURE: it's kind of matte..wil natural shine of wood.
-FURNITURE: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of FURNITURE side/front/back planks
+FURNITURE: how thick is the wood? please provide complete details. thickness of top cover plank, thickness of bed side/front/back planks
 FURNITURE: 18mm the, storage Chambers under the mattress. not recommended for transferor's.
 FURNITURE: Can we dismantle and assemble it by ourselves while shifting or carpenter can only do. Does it assemble through nuts and bolts?
 FURNITURE: No we can't dismantle or assemble it by yourself, it must be done by expert.
 FURNITURE: Is there trolley for front storage?
 FURNITURE: no trolley for front storage...
-FURNITURE: plywood available for ground of FURNITURE...if available is it removable or permanent fixed
+FURNITURE: plywood available for ground of bed...if available is it removable or permanent fixed
 FURNITURE: removable
 FURNITURE: included with matres?
 FURNITURE: no..there was no matress
 FURNITURE: can you provide 7feet width
 FURNITURE: it is clearly mentioned queen size. queen size means 5'X6'5"
-FURNITURE: will be getting mattres with this FURNITURE or only body of the FURNITURE.just confusing about this. also confirm what will be getting along with this FURNITURE
-FURNITURE: no mattress. only body of FURNITURE. it has under body storage
+FURNITURE: will be getting mattres with this bed or only body of the bed.just confusing about this. also confirm what will be getting along with this bed
+FURNITURE: no mattress. only body of bed. it has under body storage
 FURNITURE: can we pay imi by net banking
 FURNITURE: yes
-FURNITURE: is pillow is give with this FURNITURE?
+FURNITURE: is pillow is give with this bed?
 FURNITURE: No, it's only the cot. mattress and pillows not included.
-FURNITURE: what is height of FURNITURE? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of FURNITURE can be increased?
+FURNITURE: what is height of bed? as far as i feel it wont be more than 6 inches. Normally 12 inch is required. is there any mean through which height of bed can be increased?
 FURNITURE: Its hight slightly short and if it can increased by 4" then we can say this product is good. Only good because it's rate is very much high. This product is not more than Rs. 12000/-
 FURNITURE: what is the height of storage box
 FURNITURE: 221cm
 FURNITURE: which material is used for this cot..can it last years
 FURNITURE: It is engineered wood. It can last for years provided you maintain properly with out much contact with water. Try not to shift it and if you are shifting, you should do only after disassemling it.
-FURNITURE: can sleep 4 people in this FURNITURE
-FURNITURE: ya two adults and two children can sleep comfortably in this FURNITURE
-FURNITURE: how many people can sleep in this FURNITURE
+FURNITURE: can sleep 4 people in this bed
+FURNITURE: ya two adults and two children can sleep comfortably in this bed
+FURNITURE: how many people can sleep in this bed
 FURNITURE: Easily 4
 FURNITURE: is it includes mattresses
 FURNITURE: Noooo we should buy
-FURNITURE: what is the weight of this FURNITURE?
+FURNITURE: what is the weight of this bed?
 FURNITURE: 130 kg approximately
 FURNITURE: what is the thickness of upper foldable engineer wood ?
 FURNITURE: around .75 inch approx
-FURNITURE: what is the size of FURNITURE?
+FURNITURE: what is the size of bed?
 FURNITURE: 78X60X6
 FURNITURE: Will it be suitable for two adults?
-FURNITURE: Not too much, it's low hight FURNITURE also and having no storage. Plyboard sheet is aslo not too good.
-FURNITURE: Is there has a storage section for keeping FURNITURE stuff n all
+FURNITURE: Not too much, it's low hight bed also and having no storage. Plyboard sheet is aslo not too good.
+FURNITURE: Is there has a storage section for keeping bed stuff n all
 FURNITURE: NO
 FURNITURE: What is the load capacity.?
 FURNITURE: 2 persons
@@ -428,35 +428,35 @@ FURNITURE: Do I need to assemble the furniture by myself?
 FURNITURE: If your delivery condition is 'Knock-Down' then your product requires carpenter assembly or professional service. The assembly service is provided by our service partner free of cost.
 FURNITURE: is it includes with mattress ana pillows?
 FURNITURE: No
-FURNITURE: Could you please confirm me storage size? look like we could use half length of the FURNITURE. Please confirm
+FURNITURE: Could you please confirm me storage size? look like we could use half length of the bed. Please confirm
 FURNITURE: Actually I have not done the installation yet.But it is very good product.. you can buy it.
 FURNITURE: Will the color/polish be exactly the same as it appears on screen?
 FURNITURE: We try our best for you get what you see. However, due to factors like studio lightings and screen resolution which differs, there is a possibility of minor differences perceived in color
 FURNITURE: who will be setting.?
-FURNITURE: FURNITURE: spacewood companies people will come for the settings for it FURNITURE
-FURNITURE: this FURNITURE is double or single
+FURNITURE: FURNITURE: spacewood companies people will come for the settings for it bed
+FURNITURE: this bed is double or single
 FURNITURE: Double
-FURNITURE: This FURNITURE Making with which Wood ?
+FURNITURE: This Bed Making with which Wood ?
 FURNITURE: its engineered wood. basically particlea of wood (unknown type) are compressed with chemicals and adhesive. can last 10+ yrs depending on how you maintain. do not clean with water and keep it dry.
-FURNITURE: What is the FURNITURE size?
+FURNITURE: What is the bed size?
 FURNITURE: king size
-FURNITURE: Will I get mattress along with FURNITURE?
+FURNITURE: Will I get mattress along with bed?
 FURNITURE: No
-FURNITURE: what dimensions of the mattress can choose for this FURNITURE?
+FURNITURE: what dimensions of the mattress can choose for this bed?
 FURNITURE: I picked 78*72*6 inches. Still there is an inch gap near the headspace. Anyway this would be the best standard size available. If possible go for higher thickness as even 6 inches feels low for this.
 FURNITURE: Required Matress size..?
 FURNITURE: 6/6.5 ft..
-FURNITURE: can three people sleep on this FURNITURE
-FURNITURE: 2 adults or 3 kids can sleep well on this FURNITURE
+FURNITURE: can three people sleep on this bed
+FURNITURE: 2 adults or 3 kids can sleep well on this bed
 FURNITURE: does this come with FURNITURE??
-FURNITURE: it's a king size FURNITURE as per description
-FURNITURE: what are the dimensions for buying a mattress for this FURNITURE??
+FURNITURE: it's a king size bed as per description
+FURNITURE: what are the dimensions for buying a mattress for this bed??
 FURNITURE: 78 L # 60 W
 FURNITURE: is it detachable
 FURNITURE: Yup....
-FURNITURE: how many sleep on FURNITURE
+FURNITURE: how many sleep on bed
 FURNITURE: Two Adult and 01 Kid with Total Weight of 170 Kg
-FURNITURE: how many part of this FURNITURE
+FURNITURE: how many part of this bed
 FURNITURE: Seater capacity
 FURNITURE: Seater capacity 2 Seater
 FURNITURE: Seater capacity 4 Seater
@@ -601,7 +601,7 @@ FURNITURE: UPHOLSTERY INCLUDED
 FURNITURE: Upholstery Included
 FURNITURE: EXTENDABLE
 FURNITURE: Extendable
-FURNITURE: Woodness Solid Wood 8 Seater FURNITURE Set  (Finish Color - Wenge)
+FURNITURE: Woodness Solid Wood 8 Seater Dining Set  (Finish Color - Wenge)
 FURNITURE: Table Top Material: Solid Wood
 FURNITURE: Chair Frame: Solid Wood
 FURNITURE: Upholstery Included
@@ -609,7 +609,7 @@ FURNITURE: Table (W x H x D): 1800 cm x 750 cm x 900 cm (24 ft 7 in x 59 ft x 29
 FURNITURE: Knock Down - Delivered in non-assembled pieces, installation by service partner
 FURNITURE: 1 month domestic Warranty
 FURNITURE: Free Installation 
-FURNITURE: Manufactured from eco-friendly Grade A Malaysian Rubberwood, this FURNITURE set features a simple silhouette with well balanced proportions creating a clean and contemporary look. The table top is supported by straight and sturdy legs which ensure maximum leg space. Paired with, straight-backed chairs, it makes for an elegant, inviting setup. A stain-resistant lacquer protects the distinctive grain pattern and natural feel of solid wood.
+FURNITURE: Manufactured from eco-friendly Grade A Malaysian Rubberwood, this dining set features a simple silhouette with well balanced proportions creating a clean and contemporary look. The table top is supported by straight and sturdy legs which ensure maximum leg space. Paired with, straight-backed chairs, it makes for an elegant, inviting setup. A stain-resistant lacquer protects the distinctive grain pattern and natural feel of solid wood.
 FURNITURE: Product Features
 FURNITURE: Seating Capacity
 FURNITURE: 8 Seater
@@ -683,17 +683,17 @@ FURNITURE: Flipkart, or the Seller delivering the product, will not take up any 
 FURNITURE: In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles
 FURNITURE: If there is any defect after I receive, what should I do?
 FURNITURE: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
-FURNITURE: How do I know the FURNITURE table fits into my home.
-FURNITURE: The detailed FURNITURE table dimensions are highlighted in the images as well as in the description.
+FURNITURE: How do I know the dining table fits into my home.
+FURNITURE: The detailed dining table dimensions are highlighted in the images as well as in the description.
 FURNITURE: Has anybody using it for long time? Are chairs durable?
 FURNITURE: Chairs are Not very strong but if used cautiously can last long. Check for loosening of screws regularly
 FURNITURE: Certified Buyer
 FURNITURE: Cushion is available or not from the time of delivery? If it is available it's price included??
 FURNITURE: Will the chairs cause friction/screeching sound against the floor?
-FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
-FURNITURE: How do I take care of my FURNITURE table?
+FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual productâ€™s detail page.
+FURNITURE: How do I take care of my dining table?
 FURNITURE: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
-FURNITURE: HomeTown Artois Solid Wood 6 Seater FURNITURE Set  (Finish Color - Dark Walnut)
+FURNITURE: HomeTown Artois Solid Wood 6 Seater Dining Set  (Finish Color - Dark Walnut)
 FURNITURE: General
 FURNITURE: Brand
 FURNITURE: HomeTown
@@ -775,28 +775,28 @@ FURNITURE: No. It is not particle board. It is what they call solid wood. I am u
 FURNITURE: If there is any defect after I receive, what should I do?
 FURNITURE: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
 FURNITURE: Will the chairs cause friction/screeching sound against the floor?
-FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
+FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual productâ€™s detail page.
 FURNITURE: What all does this include? I mean Chairs, bench and table as well?
 FURNITURE: Yes, it includes chairs, bench and table as well.
 FURNITURE: How to install table
 FURNITURE: Installation personnel from Flipkart will install and give demo for future shifting
-FURNITURE: How do I know the FURNITURE table fits into my home.
-The detailed FURNITURE table dimensions are highlighted in the images as well as in the description.
-FURNITURE: How do I take care of my FURNITURE table?
+FURNITURE: How do I know the dining table fits into my home.
+The detailed dining table dimensions are highlighted in the images as well as in the description.
+FURNITURE: How do I take care of my dining table?
 FURNITURE: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
 FURNITURE: is it durable ??
 FURNITURE: it's ok for the price you are paying.
-FURNITURE: RoyalOak COCO Solid Wood 4 Seater FURNITURE Set  (Finish Color - Walnut)
-FURNITURE: How do I know the FURNITURE table fits into my home.
-FURNITURE: The detailed FURNITURE table dimensions are highlighted in the images as well as in the description.
+FURNITURE: RoyalOak COCO Solid Wood 4 Seater Dining Set  (Finish Color - Walnut)
+FURNITURE: How do I know the dining table fits into my home.
+FURNITURE: The detailed dining table dimensions are highlighted in the images as well as in the description.
 FURNITURE: If there is any defect after I receive, what should I do?
 FURNITURE: If there are any manufacturing defect, please notify us immediately and the same will be will be rectified if it lies within the warranty period
 FURNITURE: can you supply this minus chairs? and the center frame is teak wood?
 FURNITURE: Center table is made of multiple wedges of solid wood which are pasted and joined together. The table top rests on a single leg which makes the table wobble and rotate. Joints are weak and unstable.
-FURNITURE: How do I take care of my FURNITURE table?
+FURNITURE: How do I take care of my dining table?
 FURNITURE: Always use coasters or mats while keeping hot, cold or wet materials on the surface else this can affect the surface.
 FURNITURE: Will the chairs cause friction/screeching sound against the floor?
-FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual product’s detail page.
+FURNITURE: Most of our chairs include floor protectors to help to look after your floors. You can find out more on the individual productâ€™s detail page.
 FURNITURE: Type of solid wood
 FURNITURE: Oak rubber plant
 FURNITURE: Can we only buy the chairs and not the table ?
@@ -833,17 +833,17 @@ FURNITURE: Solid Wood
 FURNITURE: TYPE
 FURNITURE: Modular
 FURNITURE: Sectional
-FURNITURE: FURNITURE
+FURNITURE: Sofa
 FURNITURE: Standard
 FURNITURE: TYPE
 FURNITURE: Modular
 FURNITURE: Sectional
-FURNITURE: FURNITURE
+FURNITURE: Sofa
 FURNITURE: Standard
 FURNITURE: TYPE
 FURNITURE: Modular
 FURNITURE: Sectional
-FURNITURE: FURNITURE
+FURNITURE: Sofa
 FURNITURE: Standard
 FURNITURE: HomeTown
 FURNITURE: Nilkamal
@@ -977,7 +977,7 @@ FURNITURE: Filling Material: Foam
 FURNITURE: W x H x D: 187 cm x 76 cm x 83 cm (6 ft 1 in x 2 ft 5 in x 2 ft 8 in)
 FURNITURE: DIY - Basic assembly to be done with simple tools, comes with instructions
 FURNITURE: Sales Package
-FURNITURE: 1 FURNITURE sectional, 6 Cushion
+FURNITURE: 1 sofa sectional, 6 Cushion
 FURNITURE: Model Number Nano
 FURNITURE: Secondary Material Solid Wood
 FURNITURE: Secondary Material Subtype Chenille
@@ -989,9 +989,9 @@ FURNITURE: Upholstery Color Black
 FURNITURE: Product Details
 FURNITURE: Filling Material Foam
 FURNITURE: Finish Type Matte
-FURNITURE: It is always advisable to keep your furniture away from direct sunlight and places with high humidity levels. Always use coasters or mats to keep any hot object on the wooden furniture as it may get damaged by causing white rings or marks. Don’t use any strong agents to clean the furniture unless mentioned otherwise. Keep pointed and sharp objects away from your furniture as they can cause permanent scratched.
+FURNITURE: It is always advisable to keep your furniture away from direct sunlight and places with high humidity levels. Always use coasters or mats to keep any hot object on the wooden furniture as it may get damaged by causing white rings or marks. Donâ€™t use any strong agents to clean the furniture unless mentioned otherwise. Keep pointed and sharp objects away from your furniture as they can cause permanent scratched.
 FURNITURE: Adjustable Headrest No
-FURNITURE: FURNITURE set with two cushion
+FURNITURE: Sofa set with two cushion
 FURNITURE: Dimensions
 FURNITURE: Width 187 cm
 FURNITURE: Height 76 cm
@@ -1002,29 +1002,29 @@ FURNITURE: For warranty claims or any product related issues please email at inf
 FURNITURE: Warranty of the product is limited to manufacturing defects only.
 FURNITURE: Warranty does not cover for Improper Handling and any kind of natural wear
 FURNITURE: The color of the product may vary slightly compared to the picture displayed on your screen. This is due to lighting, pixel quality and color settings. - Please check the product's dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises. - Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels. - Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product. The product will only be assembled in case carpentry assembly is required. - In case the product appears to lack shine, wiping the surface with a cloth will help clear the surface of dust particles.
-FURNITURE: do u have the left side FURNITURE set also same ? my driwing room is left side
+FURNITURE: do u have the left side sofa set also same ? my driwing room is left side
 FURNITURE: yes
 FURNITURE: will the resting back of the pillow have cushion or its wood with cloth?
 FURNITURE: wood with cloth
 FURNITURE: are pilllows included...and do the back rest or arm rest have cushion?
 FURNITURE: yes, pillows are included and back rest and arm rest both have covered with thick cloth
-FURNITURE: What can I do to make my FURNITURE last longer?
-FURNITURE: Avoid sitting on the arms of the FURNITUREs as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
+FURNITURE: What can I do to make my sofa last longer?
+FURNITURE: Avoid sitting on the arms of the sofas as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
 FURNITURE: Should I get a professional to clean it?
 FURNITURE: It is advisable to have your furniture cleaned regularly by professional upholstery cleaner as different fibres and fabric constructions require special treatment.
-FURNITURE: is it FURNITURE cum bed
+FURNITURE: is it sofa cum bed
 FURNITURE: one side can be used like a diwan
-FURNITURE: What can I do to make my FURNITURE last longer?
-FURNITURE: Avoid sitting on the arms of the FURNITUREs as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
-FURNITURE: What type of assembly is required for the FURNITURE?
+FURNITURE: What can I do to make my sofa last longer?
+FURNITURE: Avoid sitting on the arms of the sofas as it exerts excess pressure and can cause premature wear and distortion of the padding and fabric. Avoid pulling out any fabric snags and use scissors instead.
+FURNITURE: What type of assembly is required for the sofa?
 FURNITURE: One of the three - 1) No assembly required (delivered pre-assembled) 2) DIY (Do it yourself/self assembly) 3) Knock Down (Requires installation/assembly which is done by flipkart partner free of cost)
-FURNITURE: Is the FURNITURE as comfortable as it appears in the image?
-FURNITURE: It is natural for your new FURNITURE to feel firmer than the display. This is because your FURNITURE is brand new. Just like a pair of shoes, a FURNITURE needs to be worn in. With regular use your FURNITURE will soften.
+FURNITURE: Is the sofa as comfortable as it appears in the image?
+FURNITURE: It is natural for your new sofa to feel firmer than the display. This is because your sofa is brand new. Just like a pair of shoes, a sofa needs to be worn in. With regular use your sofa will soften.
 FURNITURE: How good is the fabric? Will the colour fade?
 FURNITURE: Direct sunlight over a prolonged period can cause fading and/or deterioration, so place them in a no sunlight zone. Clean your upholstery at least once a week with a soft brush or vacuum cleaner.
 FURNITURE: How do I know if the sofa will fit into my home.
 FURNITURE: The detailed sofa dimensions are highlighted in the images as well as in the description. It will be good to measure the door so that to ensure the sofa fits through the door.
-FURNITURE: can it become bed if yes mention dimensions
+FURNITURE: can it become bed if yes mentio dimensions
 FURNITURE: Yes, the 3 seater one can be used as bed. Dimension of 3 seater one is 2.7ft x 6.1 ft.
 FURNITURE: What type of assembly is required for the sofa?
 FURNITURE: One of the three - 1) No assembly required (delivered pre-assembled) 2) DIY (Do it yourself/self assembly) 3) Knock Down (Requires installation/assembly which is done by flipkart partner free of cost)
@@ -1033,24 +1033,24 @@ FURNITURE: Quality is good, Very good packing, mixed
 FURNITURE: Should I get a professional to clean it?
 FURNITURE: It is advisable to have your furniture cleaned regularly by professional upholstery cleaner as different fibres and fabric constructions require special treatment.
 FURNITURE: How do I know if the sofa will fit into my home.
-FURNITURE: The detailed sofa dimensions are highlighted in the images as well as in the description. It will be good to measure the door so that to ensure the FURNITURE fits through the door.
+FURNITURE: The detailed sofa dimensions are highlighted in the images as well as in the description. It will be good to measure the door so that to ensure the sofa fits through the door.
 FURNITURE: can we get hand rest right side
 FURNITURE: What is the density of the foam?
 FURNITURE: Cannot provide exact density. But the foam is quite thick . Comfortable to sit.
 FURNITURE: can single pullout be customised (reduced) by few (100) millimetres
-FURNITURE: Yes, it can be customized. I love the FURNITURE and the dimensions are just perfect for my living room.
-FURNITURE: what to do to assemble the FURNITURE within one week? means by 2nd october 17
+FURNITURE: Yes, it can be customized. I love the sofa and the dimensions are just perfect for my living room.
+FURNITURE: what to do to assemble the sofa within one week? means by 2nd october 17
 FURNITURE: You just have to Install the Plastic legs provided to you separately. rest all are pre assembled. You can install the bottom legs by yourself.
 FURNITURE: Which one used foam and plywood in inch?
 FURNITURE: it is foam, plywood is for skeleton only.
 FURNITURE: what is the foot made up of
 FURNITURE: Wood
-FURNITURE: whats the weight of this FURNITURE set?
+FURNITURE: whats the weight of this sofa set?
 FURNITURE: not too heavy
 FURNITURE: will it include teapoi
 FURNITURE: Is top sitting area very light grey? i am worried for maintenance of light color.
-FURNITURE: Yeah it is very light in colour. But you can use FURNITURE covers for protection.
-FURNITURE: Will people come for FURNITURE installation or should I do my self ??
+FURNITURE: Yeah it is very light in colour. But you can use sofa covers for protection.
+FURNITURE: Will people come for sofa installation or should I do my self ??
 FURNITURE: No i did myself
 FURNITURE: measurements of length
 FURNITURE: L soaked length is 9' & 6' (6'on Diwan side)
