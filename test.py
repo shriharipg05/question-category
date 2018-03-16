@@ -1,4 +1,5 @@
-import re, os
+import re, os, sys
+import string, json, MySQLdb
 
 class BagOfWords(object):
     """ Implementing a bag of words, words corresponding with their 
@@ -154,6 +155,7 @@ class DocumentClass(Document):
     def NumberOfDocuments(self):
         return self._number_of_docs
 
+
 class Pool(object):
     def __init__(self):
         self.__document_classes = {}
@@ -229,12 +231,37 @@ p = Pool()
 for i in DClasses:
     p.learn(base + i, i)
 
-
-
 base = "quest_test/"
+fwrite = open("output.txt", "w+")
+fwrite.truncate()
+
+output = ''
 for i in DClasses:
     dir = os.listdir(base + i)
     for file in dir:
         res = p.Probability(base + i + "/" + file)
-        print(i + ": " + file + ": " + str(res))
+        fwrite.write(i + ": " + file + ": " + str(res))
+        output = output + i + ": " + file + ": " + str(res)
 
+newop = output.replace("products:", "feedbacks:")
+output = newop.replace("supports:", "feedbacks:")
+
+strings = re.split('feedbacks: ', output)
+db = MySQLdb.connect("localhost", "root", "", "question_classifier")
+for item in strings:
+    que_string = re.split(':', item)
+    if len(que_string) > 1:
+        class_string = re.split(',', que_string[1])
+
+        str_class = re.sub('[^A-Za-z0-9]+', '', class_string[0])
+        str_prob = re.sub('[^A-Za-z0-9.]+', '', class_string[1])
+
+        file_que = open("quest_test/"+str_class+"/"+que_string[0], "r")
+        str_que = file_que.read().split(": ")
+        if len(str_que) > 1:
+            cursor = db.cursor()
+            cursor.execute("INSERT INTO classifier(class1, qtext, probability) VALUES (%s, %s, %s)",(str_class, str_que[1], str_prob))
+            print(str_que[1] +" "+ str_class +" "+ str_prob+ "\n")
+db.commit()
+db.close()
+fwrite.close()
