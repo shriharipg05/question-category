@@ -1,0 +1,552 @@
+Amazon.in Returns Policies
+Following are the details of the return policies applicable for items sold on Amazon.in.
+
+To return an item or check return eligibility, please visit the
+
+Returns Centre
+General Returns Policy
+Returning FBA items ("Shop By" Categories)
+Returning Seller Fulfilled Items (not FBA)
+Returning Global Store Items
+Returning Products with the Inspect and Buy label
+Returning a Business Order
+Amazon Device Return Policies (Kindle e-readers, Amazon Fire TV Stick, Amazon Echo devices, and Amazon accessories for these devices)
+General Returns Policy
+The following general returns policy is applicable to all items sold on Amazon.in. All items with the logo Fulfilled by Amazon 
+		 on the product detail page are Fulfilled by Amazon (FBA). All non-FBA items are seller fulfilled.
+
+In general, an item may be eligible for return within the applicable return window if it fulfils one or more of the following conditions:
+Was delivered in a physically damaged condition
+Has missing parts or accessories
+Is different from what was ordered
+Is no longer needed (not all items may be eligible)
+Products marked as "non-returnable" on the product detail page cannot be returned. View the full list of non-returnable items.
+All items must be returned in their original condition, with price tags intact, user manual, warranty cards, original accessories and in the original manufacturer’s box/packaging as delivered to you. Refer to instructions to return items against each category. We may reject the return pickup if the items are not returned according to the policy mentioned against each category.
+Only Fulfilled by Amazon (FBA) items may be eligible for replacement. For more details, please refer About Free Replacements.
+If you wish to return an electronic device that stores any personal information, please ensure that you have removed all such personal information from the device prior to returning. Amazon shall not be liable in any manner for any misuse or usage of such information."
+Some items may not be eligible for return if you "no longer need it" (including cases of buyer's remorse such as incorrect model or color of product ordered or incorrect product ordered).
+Refunds for Items Fulfilled by Amazon Items
+When you return a fulfilled by Amazon item, refunds are issued to the payment method used at the time of purchase, except for Cash on Delivery.
+
+To check the status of your refund go to
+
+Your Orders
+Payment Method	Refund Method	Refund Time-frame
+(After the return is received by Amazon)
+
+Credit Card/ Debit Card	Credit Card/ Debit Card	2-4 business days
+Net Banking	Net Banking Account (Credited to Bank Account)	2-4 business days
+Cash on Delivery	
+NEFT to Bank Account
+
+Paper Cheque
+
+Gift Card
+
+2-4 business days
+
+8-10 business days
+
+2 business days
+
+Gift Card	Gift card	2 business days
+If the standard time-frame as mentioned above has passed and you have still not received the refund, please contact your credit or debit card issuer or your bank for more information.
+
+Note:
+
+If the original payment method you used to make the payment (credit/ debit card) is no longer valid, we'll issue the refund through a demand draft.
+
+When we receive a payment failure notice from your bank, we will send you an e-mail asking you to call us. When you call us back, we will collect your name and the address where you want the demand draft to be sent, and proceed with the refund.
+
+COD Refund to Bank Account via National Electronic Funds Transfer (NEFT)
+For orders placed using Cash on Delivery as the payment method, refunds can be processed to your bank account via National Electronic Funds Transfer (NEFT). You can update the details of the bank account where you wish to receive the refund in the Your Account section or from the Returns Support Centre when you are returning an item.
+
+You will need to update following information to enable us to process a refund to your account:
+
+The Bank Account Number
+IFSC Code
+Account Holder's Name
+Bank Branch
+Bank Name
+Refunds cannot be processed to third-party accounts. The name on your Amazon account should match with the name of the bank account holder.
+NEFT refunds will typically be processed in one business day from our end and will be credited to your account in two business days.
+
+Paper cheque clearing
+All cheque refunds will be in form of "at par" Deutsche Bank cheques. Deutsche Bank cheques are cleared locally in the following cities:
+
+Ahmedabad	Delhi	Ludhiana	Pune
+Aurangabad	Gurgaon	Moradabad	Salem
+Bangalore	Kolhapur	Mumbai	Surat
+Chennai	Kolkata	Noida	Vellore
+If you plan to present the cheque in person in any other city, ensure that your beneficiary bank sends the cheque for outstation clearing.
+
+In case you plan to drop your cheque in a clearance box, please note the following:
+
+
+If you are dropping the cheque in a clearance box in any of the above cities, use the box marked Local Cheques.
+If you are dropping the cheque in a clearance box in any other city, use the box marked Outstation Cheques.
+Failing to follow the above instructions might result in the cheque not being processed and a penalty being levied by the bank.
+
+Note: Once a cheque is issued, Amazon will send you an e-mail with the tracking details of the refund cheque within 4 business days from the date of refund.
+Return Seller-fulfilled Items
+You can return a seller fulfilled item through our Returns Support Centre.
+
+To return a seller fulfilled item:
+
+Go to the Returns Support Centre and click Return Items
+Find the order you want to return, and click Return an item from this order. If you don't see the order you're looking for, select another option from the See more menu, and then click Go.
+Select items you want to return.
+Select an option from the Reason for return menu. You can add any additional information in the Comments box.
+Click Submit for Approval.
+Once you click on "Submit for Approval",you will see one of the four following options:
+
+You will see a return confirmation asking you to schedule a return pickup. You will simply need to specify the date and time of pickup
+You will immediately receive an e-mail with the return label and instructions on how to return your item. You can either print and paste the return label on your package or you can write the seller's return address and Return Authorization Number on a piece of paper and paste it on the package before you ship your return.
+Your request will be forwarded to the seller. After the seller reviews your return request, you will receive an e-mail with the return label and instructions on how to return your item. You can either print and paste the return label on your package or you can write the seller's return address and Return Authorization Number on a piece of paper and paste it on the package before you ship your return.
+If you do not receive a response within two business days, you can submit an A-to-Z Guarantee claim.
+Note:
+
+Please note that in some seller fulfilled orders, you will not have the option for pickup and will have to do a self-return.
+In case of seller-fulfilled products that are sold by International Sellers, the International Seller will provide a prepaid return shipping label and/or arrange for pick-up. Please contact the International Seller for more details on returns. Visit International Sellers - Terms and Conditions for more details.
+If your return electronic device stores any personal information, please ensure that you have removed all such personal information from the device prior to returning. Amazon shall not responsible for any misuse or usage of such information.
+Amazon Global Store Return Policy
+This policy is applicable to all Global Store products
+
+This General Return Policy is applicable for all Amazon Global Store Products (“Product”). If the Product is eligible for a refund on return, you can choose to return the Product either through courier Pickup or Self-Return**
+
+Courier Pickup
+
+If you schedule a courier pick-up through our Online Returns Center you are required to keep the following documents ready for handing it over to the pickup associate: 
+Copy of your ID proof
+Return invoice
+Customer Authorisation
+A return mailing label with Amazon tracking barcode
+The Return invoice and Customer authorization documents should be affixed on the package. You can access these documents by clicking Manage Returns in the Online Returns Centre. It generally takes up to 15 - 25 days for an item to reach Amazon Export Sales, LLC after it is picked up by the courier.
+
+Self-Return
+
+In case of self-return, customer can return the Product using any courier/ postal service of your choice. It is customer’s responsibility to provide all the documents which are required by courier to ship the item back to Amazon Export Sales, LLC.
+
+Amazon Export Sales LLC will reimburse shipping charges on presentation of receipt as per actuals upto a maximum of INR 1725/- (Rupees One Thousand Four Hundred and Seventy Only).
+
+Note:
+
+Once the package is received at Amazon Export Sales LLC fulfillment center in the US, it takes 2 (two) business days for the refund to be processed and 2- 4 business days for the refund amount to reflect in your account.
+If your return is due to an Amazon error you'll receive a full refund, else the shipping charges (onward & return) along with import fees will be deducted from your refund amount. An item that is either damaged or defective when delivered to you will be considered as an Amazon error.
+**For products worth more than INR 25000, we only offer Self-Return option.
+RETURN ITEMS YOU ORDERED
+Return Items Fulfilled by Amazon
+Return a package at an Amazon drop off store
+Return Seller Fulfilled Items
+Return a Gift
+Track Your Return
+About Our Return Policies
+About Return Shipping
+Items That Can't be Returned
+Return Documentation
+Return Gift Cards
+ABOUT REFUNDS
+Refunds for Items Fulfilled by Amazon
+Refunds for Seller Fulfilled Items
+Check Status of Your Refund
+Shipping Cost Refunds
+ABOUT REPLACEMENTS
+About Free Replacements
+Replace an Item
+Shipping Speeds for Replacement Items
+ABOUT EXCHANGES
+About Exchanging Shoes or Apparel
+Exchange Shoes or Apparel
+ABOUT INSPECT & BUY
+About Inspect & Buy
+RETURN ITEMS YOU ORDERED
+Return Items Fulfilled by Amazon
+Return a package at an Amazon drop off store
+Return Seller Fulfilled Items
+Return a Gift
+Track Your Return
+About Our Return Policies
+About Return Shipping
+Items That Can't be Returned
+Return Documentation
+Return Gift Cards
+ABOUT REFUNDS
+Refunds for Items Fulfilled by Amazon
+Refunds for Seller Fulfilled Items
+Check Status of Your Refund
+Shipping Cost Refunds
+ABOUT REPLACEMENTS
+About Free Replacements
+Replace an Item
+Shipping Speeds for Replacement Items
+ABOUT EXCHANGES
+About Exchanging Shoes or Apparel
+Exchange Shoes or Apparel
+ABOUT INSPECT & BUY
+About Inspect & Buy
+RETURN ITEMS YOU ORDERED
+Return Items Fulfilled by Amazon
+Return a package at an Amazon drop off store
+Return Seller Fulfilled Items
+Return a Gift
+Track Your Return
+About Our Return Policies
+About Return Shipping
+Items That Can't be Returned
+Return Documentation
+Return Gift Cards
+ABOUT REFUNDS
+Refunds for Items Fulfilled by Amazon
+Refunds for Seller Fulfilled Items
+Check Status of Your Refund
+Shipping Cost Refunds
+ABOUT REPLACEMENTS
+About Free Replacements
+Replace an Item
+Shipping Speeds for Replacement Items
+ABOUT EXCHANGES
+About Exchanging Shoes or Apparel
+Exchange Shoes or Apparel
+ABOUT INSPECT & BUY
+About Inspect & Buy
+General Returns Policy
+The following general returns policy is applicable to all items sold on Amazon.in. All items with the logo Fulfilled by Amazon 
+		 on the product detail page are Fulfilled by Amazon (FBA). All non-FBA items are seller fulfilled.
+
+In general, an item may be eligible for return within the applicable return window if it fulfils one or more of the following conditions:
+Was delivered in a physically damaged condition
+Has missing parts or accessories
+Is different from what was ordered
+Is no longer needed (not all items may be eligible)
+Products marked as "non-returnable" on the product detail page cannot be returned. View the full list of non-returnable items.
+All items must be returned in their original condition, with price tags intact, user manual, warranty cards, original accessories and in the original manufacturer’s box/packaging as delivered to you. Refer to instructions to return items against each category. We may reject the return pickup if the items are not returned according to the policy mentioned against each category.
+Only Fulfilled by Amazon (FBA) items may be eligible for replacement. For more details, please refer About Free Replacements.
+If you wish to return an electronic device that stores any personal information, please ensure that you have removed all such personal information from the device prior to returning. Amazon shall not be liable in any manner for any misuse or usage of such information."
+Some items may not be eligible for return if you "no longer need it" (including cases of buyer's remorse such as incorrect model or color of product ordered or incorrect product ordered).
+Cancellations and Returns
+If I request for a replacement, when will I get it?
+
+Which products are not eligible for returns?
+
+Can items be returned after the time period mentioned in the seller's Returns Policy?
+
+Do I have to return the freebie when I return a product?
+
+How do returns work?
+
+I see the 'Cancel' button but I can't click on it. Why?
+
+How long does it take to cancel an order?
+
+What is the Buyer Protection policy?
+
+What should I do if I have an issue with my product after the return period?
+
+What are the checks done for an item that I'm returning?
+
+How can I return or exchange an item?
+
+When is a return of an item not possible?
+
+How will I get my refund for returning an item I paid for with Cash on Delivery?
+
+How can I know the status of my refund?
+
+What are the modes of refund available after cancellation?
+
+When are refunds given?
+
+I ordered a wrong item. Can I return it?
+
+What should I do if I find the package open or tampered on delivery?
+
+Can I change the address for the pick-up the of item(s) in my order?
+
+Why have I been asked to ship the item?
+
+What is the pickup process?
+
+I have requested for a return for my item. When will it happen?
+
+I have requested a replacement, when will I get it?
+
+I've still not received the refund in my bank account.
+Cancellations and Returns
+If I request for a replacement, when will I get it?
+
+Which products are not eligible for returns?
+
+Can items be returned after the time period mentioned in the seller's Returns Policy?
+
+Do I have to return the freebie when I return a product?
+
+How do returns work?
+
+I see the 'Cancel' button but I can't click on it. Why?
+
+How long does it take to cancel an order?
+
+What is the Buyer Protection policy?
+
+What should I do if I have an issue with my product after the return period?
+
+What are the checks done for an item that I'm returning?
+
+How can I return or exchange an item?
+
+When is a return of an item not possible?
+
+How will I get my refund for returning an item I paid for with Cash on Delivery?
+
+How can I know the status of my refund?
+
+What are the modes of refund available after cancellation?
+
+When are refunds given?
+
+I ordered a wrong item. Can I return it?
+
+What should I do if I find the package open or tampered on delivery?
+
+Can I change the address for the pick-up the of item(s) in my order?
+
+Why have I been asked to ship the item?
+
+What is the pickup process?
+
+I have requested for a return for my item. When will it happen?
+
+I have requested a replacement, when will I get it?
+
+I've still not received the refund in my bank account.
+If I request for a replacement, when will I get it?
+
+Visit My Orders to check the status of your replacement.
+
+In most locations, the replacement item is delivered to you at the time of pick-up. In all other areas, the replacement is initiated after the originally delivered item is picked up. Please check the SMS & email we send you for your replacemeWhich products are not eligible for returns?
+
+The following table contains a list of products that are not eligible for returns as per the seller’s Returns Policy:
+
+ 
+
+Category
+
+Products that can’t be returned
+
+Auto Accessories
+
+Additives, Air Fresheners, Brighteners, Cleaners, Bike/Car Stickers, Degreasers, Dent/Scratch Removers, Filler Putty, Headlight Vinyl Films, Liquid Solutions, Lubricants, Polish, Power Steering Fluids, Sealants, Oils and Wax
+
+Automobiles
+
+Cars, Mopeds, Motorcycles and Scooters
+
+Bath and Spa
+
+Bath Bubble/Salt/Sponge/Wash, Body Wash, Loofahs, Scrubs, Shampoos and Soaps
+
+Baby Care
+
+Bottle Nipples, Breast Nipple Care, Breast Pumps, Diapers, Ear Syringes, Nappy, Wet Reminder, Wipes and Wipe Warmers
+
+Cleaning Products
+
+Cleaning Gels, Detergents, Detergent Pods, Fabric Wash Products, Surface Cleaners, Stain Removers and Washing Bars/Powder
+
+Computer Accessories
+
+Blank/Educational Media, CDs/DVDs, Ink Toners, Music, Movies and Software
+
+Food and Nutrition
+
+Canned Food, Condiments, Drinks, Fruits, Health Supplements, Meat, Seafood, Syrups, Vegetables and other Edible Products
+
+Fashion
+
+Baby Dolls, Clothing Freebies, Lingerie Wash-bags, Shapewear, Socks, Stockings and Swimsuits
+
+Footwear Accessories
+
+Oils, Glue, Grease, Socks, Shoe Deodorants/Polish Creams/Sprays and Wax
+
+Gardening Products
+
+Plant Saplings, Plant Seeds and Soil Manure
+
+Health Care
+
+Antiseptic, Band Aid, Body Pain Relief, Eye Drops, First Aid Tape, Glucometer Lancet/Strip, Healthcare Devices and Kits, Medical Dressing/Gloves and pH Test Strip
+
+Home Products
+
+Adhesives, Barbeque wood, Bird/Insect Repellent, Contact Cement, Crack Fillers, Inks, Guitar/Yoyo Friction Stickers, Marker Refills, Mosquito Coil/Vaporiser/Vaporiser Refills, Naphthalene Balls, Scuba/Smoking-Pipe Mouthpieces and Sprays
+
+Hygiene
+
+Cannula, Contact Lens, e-Hookah, Fake Moustache, Female Urination Devices, Menstrual Cups, Needles, Panty Liners, Shaving Products, Smoking Patch, Straws, Sweat Pads, Tampons, Teeth Whitening Products/Wipes, Tissues, Toilet Tissue Aid, Toilet Rolls and Women Intimate Care
+
+Innerwear
+
+Bra Accessories, Briefs, Boxers, Lingerie Sets, Panty, Garter, Trunks and Vests
+
+Jewellery
+
+Coins
+
+Music Instrument Accessories
+
+Mouthpiece Cap/Pad/Set, Oils and Polish
+
+Party Supplies
+
+Balloons, Candles, Cut-outs, Decoration articles and Whistles
+
+Festive Supplies
+
+Hookah Charcoal/Flavor/Mouth-tip, Incense Sticks and Holi/Rangoli Color
+
+Personal Care
+
+Conditioners, Creams, Deodorants, Electric Ear Cleaners, Eyebrow/Eyelash/Hair Styling Products, Eye Mask, Face Wash, Face Care/Fairness Products, Fragrance, Fresheners, Gels, Hair Care, Kajal, Lens Solution, Lip Plumper/Stain, Blackhead/Makeup/Nail Paint Removers, Mascara, Mehendi, Nail Sanding Pad, Oils, Oral Hygiene Products, Perfumes, Hand/Toothbrush Sanitizers, Serums, Talc, Sunscreen, Tanning Liquid, Tattoo, Toners and Wigs
+
+Pet Supplies
+
+Aquarium Consumables, Hair Styling, Health Care/Medicinal Products, Horse Girth/Grooming Kit/Braid Tail Bag/Hay/Liniment/Poultice, Inhaler Masks, Litter Box Enclosures, Litter Scoops, Pet Chew, Pet Food/Treat, Pet Pad, Pet Hygiene/Personal Care Products, Poultice, Tail Wraps, Waste Bags and Water Troughs
+
+Sexual Wellness
+
+Condoms, Fertility Kit/Supplement, Lubricants, Pregnancy Kits, Sexual Massagers, Sexual/Pleasure Enhancement Products and Vaginal Dilatorsnt request for more details.
+Returns Policy
+Returns is a scheme provided by respective sellers directly under this policy in terms of which the option of replacement and/ or refund is offered by the respective sellers to you. All products listed under a particular category may not have the same returns policy. Kindly check the respective item's applicable return policy on the product page for any exceptions to the table below.
+
+Category	Period	Conditions
+Lifestyle: Clothing (_excluding Lingerie, Innerwear, Socks and Freebies), Footwear, Eyewear, Fashion Accessories	30 days	You may request for a refund /replacement within 30 days of delivery, as long as it is unworn, unwashed, without stains, undamaged and with all original tags & packaging intact.
+Lifestyle: Lingerie (top-wear), Sport & Fitness Equipment, Watches, Baby Care, Precious & Non-Precious Jewellery, Footwear Accessories, Travel Accessories 
+Home: Home Decor, Home Furnishing, Home Improvement Tools, Household Items and Pet Supply; 
+Automotive: Auto Accessories, Bike Accessories, Car Accessories, Car and Bike Breakdown Equipment, Car and Bike Care, Car and Bike Lighting, Car and Bike Styling, Car AV Electronics and Accessories, Helmets and Riding Gear, Spare and Performance Parts, Tyres and Alloys
+Books & More: Books, Music Instruments, Office Supply, School Supply and Toys	10 days	You may request for a refund / replacement within 10 days of delivery, For Lingerie (top-wear), it should be unworn, unwashed, without stains, undamaged and with all original tags & packaging intact.
+Electronics: Tablets (except Apple), Laptops (except Apple), Cameras, Consumer Electronics, Entertainment Small, Gaming Hardware, Small Home Appliances, Personal Care Appliances, Personal Care, Health Care Appliances, Small Appliances, Computer Accessories, Mobile Accessories, Camera Accessories, Other Accessories, Computer Peripherals, Smart Home Appliances, Office Equipment, Game and Smart Wearables (except Apple) Home: Furniture	10 days	You may request for a replacement within 10 days of delivery/ installation (as applicable). In certain cases where the seller is unable to process a replacement, the seller will offer a refund to you.
+We will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. In the case of tablets, you may also be required to install an application to aid with troubleshooting.
+For products where installation is provided by Flipkart's service partners, please do not open the product packaging by yourself. Flipkart authorised personnel shall help in unboxing and installation of the product. In this case, the replacement period commences from the date of installation.
+For Furniture, any product related issues will be checked by an authorised service personnel (free of cost) and attempted to be resolved by replacing the faulty/ defective part of the product. Full replacement will be provided only in cases where the service personnel opines that replacing the faulty/ defective part will not resolve the issue.
+Electronics: Mobiles (except Apple, Google) 
+Large Appliances: Air Conditioners, Chimneys, Water Geysers, Microwave Ovens, Televisions, Refrigerators, Dishwashers, Washing Machines, Dryers and OTG	10 days	You may request for a replacement within 10 days of delivery/installation (as applicable). In certain cases where the seller is unable to process a replacement, the seller will offer a refund to you.
+Assistance shall be provided to troubleshoot any issues that you may face, either through online tools, over the phone, and/or through an in-person technical visit. 
+If a defect is determined within the 10-day period following delivery/installation, a replacement of the same model will be provided at no additional cost.
+If no defect is confirmed or the issue is not diagnosed within 10 days of delivery, you will be directed to a brand service centre to resolve any subsequent issues.
+Open Box Deliveries: During an open box delivery, in case you encounter issues like different product received or damage on the product at the time of accepting delivery of your order, you can request for refund as per applicable policies. In case of cash-on-delivery orders, the amount paid will be immediately returned to you.
+No return request will be processed after you have accepted delivery of an order, except in cases where you have encountered manufacturing defects in an accepted product. In such cases, this category-specific replacement/return general conditions will be applicable to you. Click here to know more about Open Box Delivery
+Electronics: Mobiles - Apple, GoogleTablets - AppleLaptops - AppleSmart Watches - Apple	10 days	You may request for a replacement within 10 days of delivery only if the product was received in damaged condition. In certain cases where the seller is unable to process a replacement, the seller will offer a refund to you.For all other device-related issues, please contact the brand authorized service centre directly. Authorized Service Partner Locator :
+Apple - https://locate.apple.com/in/en
+Google- h ttps://support.google.com/pixelphone/answer/7173456?hl=en-GB
+Brand Support Site :Apple - https://support.apple.com/en-inGoogle - https://madeby.google.com/intl/en_in/phone/support/ Open Box Deliveries: During an open box delivery, in case you encounter issues like different product received or damage on the product at the time of accepting delivery of your order, you can request for refund as per applicable policies. In case of cash-on-delivery orders, the amount paid will be immediately returned to you.
+No return request will be processed after you have accepted delivery of an order, except in cases where you have encountered manufacturing defects in an accepted product. In such cases, this category-specific replacement/return general conditions will be applicable to you. Click here to know more about Open Box Delivery
+No Returns categories: Lingerie (bottom-wear), Inner-wear, Socks, Clothing Freebies, Home Care, Music, Movies, Baby Care Supply, Beauty and Grooming, Gift Cards, Food and Nutrition, Computer Software, CD/DVD, Pen Drives, Memory Cards, Gaming VR, Cars, Two Wheelers, Lubricant, Oil, Cleaning solutions, Grease, Glue, Wax, Perfumes, Deodorants, Inks, Gels, Polish, Liquids, Personal Hygiene, Pet Hygiene/Grooming and Other Consumables, Screen guards, Graphics cards, Motherboards, Internal Hard drives, RAM	No returns	These product categories are non-returnable. View a complete list of all non-returnable products here.
+Grocery	10 Days	If the item is defective or not as described, you may return it during delivery directly or you may request for return within 10 days of delivery for items that are defective or are different from what you ordered. Items must be complete (including freebies), free from damages and for items returned for being different from what you ordered, they must be unopened as well
+Returns Pick-Up and Processing
+In case of returns where you would like item(s) to be picked up from a different address, the address can only be changed if pick-up service is available at the new address.
+
+During pick-up, your product will be checked for the following conditions:
+
+Category	Conditions
+Correct Product	IMEI/ name/ image/ brand/ serial number/ article number/ bar code should match and MRP tag should be undetached and clearly visible.
+Complete Product	All in-the-box accessories (like remote control, starter kits, instruction manuals, chargers, headphones, etc.), freebies and combos (if any) should be present.
+Unused Product	The product should be unused, unwashed, unsoiled, without any stains and with non-tampered quality check seals/ warranty seals (wherever applicable). Before returning a Mobile/ Laptop/ Tablet, the device should be formatted and Screen Lock (Pin, Pattern or Fingerprint) must be disabled. iCloud lock must be disabled for Apple devices.
+Undamaged Product	The product (including SIM trays/ charging port/ headphone port, back-panel etc.) should be undamaged and without any scratches, dents, tears or holes.
+Undamaged Packaging	Product's original packaging/ box should be undamaged.
+The field executive may refuse to accept the return if any of the above conditions are not met.
+Can items be returned after the time period mentioned in the seller's Returns Policy?
+
+No, sellers will not be able to accept returns after the time period mentioned in the seller's Returns Policy.
+Do I have to return the freebie when I return a product?
+
+Yes, the freebie has to be returned along with the product.
+How do returns work?
+
+You can raise a request to return your items with these simple steps:
+
+1. Log into your Flipkart account
+
+2. Go to My Orders
+
+3. Click on 'Return' against the item you wish to return or exchange
+
+4. Fill in the details and raise a return request
+
+Once you raise a request, you'll get an email and SMS confirming that your request is being processed. Based on the item, your request may be automatically approved or you may be contacted for more details. If the request is approved, the item will be picked up after which you will get a replacement or refund. You can also track the status of your return request instantly from the 'My Orders' section of your Flipkart account.
+I see the 'Cancel' button but I can't click on it. Why?
+
+A greyed out and disabled 'Cancel' button can mean any one of the following:
+
+1. The item has been delivered already
+
+OR
+
+2. The item is non-refundable (e.g. Gift Card)
+How long does it take to cancel an order?
+
+Cancellation of item(s) in an order happens immediately if the order hasn't been shipped yet by the seller. If your order has been shipped, it will be cancelled as soon as the courier service confirms that the shipment is being returned to the seller.
+When are refunds given?
+
+Refunds are given when:
+
+- The seller cannot provide a replacement
+- A dispute has been ruled in your favour in-line with Buyer Protection
+- Sellers allow refunds on select categories under certain conditions
+
+Please check the seller's Returns Policy on the product page for more details.
+I've still not received the refund in my bank account.
+
+If you have received a mail from us confirming your refund request, it means that the refund has been initiated. You can also contact your bank with the ARN you would have received for an update on the status of your refund.
+
+In the rare event of the amount not being credited by the date promised, you can contact us as we will work with the bank to get it done.
+What is the Buyer Protection policy?
+
+The Buyer Protection policy mediates buyer-seller disputes. In case a seller declines your request for a return of an item and you are not convinced with the reason given, you can write to us at resolution@flipkart.com for Buyer Protection. You can dispute the resolution that the seller has shared for your issue until 45 days from the date of delivery and concern is looked into by us on a case-toWhat are the checks done for an item that I'm returning?
+
+During pick-up, your product will be checked for the following conditions:
+
+Correct Product
+
+IMEI/ name/ image/ brand/ serial number/ article number/ bar code should match and MRP tag should be undetached and clearly visible.
+
+Complete Product
+All in-the-box accessories (like remote control, starter kits, instruction manuals, chargers, headphones, etc.), freebies and combos (if any) should be present.
+
+Unused Product
+The product should be unused, unwashed, unsoiled, without any stains and with non-tampered quality check seals/ warranty seals (wherever applicable). Before returning a Mobile/ Laptop/ Tablet, the device should be formatted and Screen Lock (Pin, Pattern or Fingerprint) must be disabled. iCloud lock must be disabled for Apple devices.
+
+Undamaged Product
+The product (including SIM trays/ charging port/ headphone port, back-panel etc.) should be undamaged and without any scratches, dents, tears or holes.
+
+Undamaged Packaging
+Product's original packaging/ box should be undamaged.
+
+The field executive may refuse to accept the return if any of the above conditions are not met.
+
+For any products for which a refund is to be given, the refund will be processed once the returned product has been received by the seller.
+
+-case basis.
+What are the modes of refund available after cancellation?
+
+The different refund modes available are:
+
+1. PhonePe Wallet - available for orders with select sellers. You will get this option for eligible orders during cancellation
+
+2. Back to source - available for orders with all sellers. The amount is refunded to the payment mode that was originally used to pay for the order
+
+3. NEFT transfer - available for all Cash-on-Delivery orders. As per policy, cash refunds are not possible
+I ordered a wrong item. Can I return it?
+
+The sellers' return policies don't support the return of item(s) ordered wrongly. You can refer the respective seller's Returns policy on the product page.
+What should I do if I find the package open or tampered on delivery?
+
+You can request for the item to be replaced by visiting 'My Orders'. Use the 'Return' option & fill out the details of the issue so that we can help you.
+
+Help CentreCancellations and Returns
+I have requested a replacement, when will I get it?
+
+I have requested a replacement, when will I get it?
+
+You may visit 'My Orders' to check the status of your replacement. In most locations, the replacement item is delivered to you at the time of pick-up. In all other areas, the replacement is initiated after the originally delivered item is picked up. Please check the SMS & email that will be sent to you for your replacement request for more details.
+
