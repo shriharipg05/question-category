@@ -240,10 +240,10 @@ output = ''
 dir = os.listdir(base)
 for file in dir:
     res = p.Probability(base + "/" + file)
-    fwrite.write("feedbacks: " + file + ": " + str(res))
-    output = output + "feedbacks: " + file + ": " + str(res)
+    fwrite.write("## " + file + ": " + str(res))
+    output = output + "## " + file + ": " + str(res)
 
-strings = re.split('feedbacks: ', output)
+strings = re.split('## ', output)
 db = MySQLdb.connect("localhost", "root", "", "question_classifier")
 for item in strings:
     que_string = re.split(':', item)
@@ -254,11 +254,11 @@ for item in strings:
         str_prob = re.sub('[^A-Za-z0-9.]+', '', class_string[1])
 
         file_que = open("quest_test/"+que_string[0], "r")
-        str_que = file_que.read().split(": ")
-        if len(str_que) > 1:
-            cursor = db.cursor()
-            cursor.execute("INSERT INTO classifier(class1, qtext, probability) VALUES (%s, %s, %s)",(str_class, str_que[1], str_prob))
-            print(str_que[1] +" "+ str_class +" "+ str_prob+ "\n")
+        str_que = file_que.read()
+
+        cursor = db.cursor()
+        cursor.execute("INSERT INTO classifier(class1, qtext, probability) VALUES (%s, %s, %s)",(str_class, str_que, str_prob))
+        print(str_que +" "+ str_class +" "+ str_prob+ "\n")
 db.commit()
 db.close()
 fwrite.close()
