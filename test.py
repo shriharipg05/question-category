@@ -236,15 +236,12 @@ fwrite = open("output.txt", "w+")
 fwrite.truncate()
 
 output = ''
-for i in DClasses:
-    dir = os.listdir(base + i)
-    for file in dir:
-        res = p.Probability(base + i + "/" + file)
-        fwrite.write(i + ": " + file + ": " + str(res))
-        output = output + i + ": " + file + ": " + str(res)
 
-newop = output.replace("products:", "feedbacks:")
-output = newop.replace("supports:", "feedbacks:")
+dir = os.listdir(base)
+for file in dir:
+    res = p.Probability(base + "/" + file)
+    fwrite.write("feedbacks: " + file + ": " + str(res))
+    output = output + "feedbacks: " + file + ": " + str(res)
 
 strings = re.split('feedbacks: ', output)
 db = MySQLdb.connect("localhost", "root", "", "question_classifier")
@@ -256,7 +253,7 @@ for item in strings:
         str_class = re.sub('[^A-Za-z0-9]+', '', class_string[0])
         str_prob = re.sub('[^A-Za-z0-9.]+', '', class_string[1])
 
-        file_que = open("quest_test/"+str_class+"/"+que_string[0], "r")
+        file_que = open("quest_test/"+que_string[0], "r")
         str_que = file_que.read().split(": ")
         if len(str_que) > 1:
             cursor = db.cursor()
