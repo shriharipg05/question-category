@@ -1,217 +1,113 @@
 Payment
 What is Flipkart's credit card EMI payment option?
-
 How can I order for large quantities of the product as part of a corporate order?
-
 How can I label my saved cards?
-
 How many cards can I save on Flipkart?
-
 I had opted to save my card at the time of payment but my card was not saved. Why?
-
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 Is it safe to save my cards on Flipkart?
-
 What card information does Flipkart store?
-
 What cards can I save on Flipkart?
-
 What is a 'card label'?
-
 What is the 'Save Card' feature?
-
 How does Flipkart prevent card fraud?
-
 Can I delete my saved cards?
-
 How can I save my card(s) on Flipkart?
-
 How do I pay using Flipkart's credit card EMI option?
-
 How is my EMI debited?
-
 I have a query about the EMI charge. What should I do?
-
 What are the interest rates for the Credit card EMI plans?
-
 Which Credit cards are eligible for EMI?
-
 Can I pay with any Credit card?
-
 Can I use a saved card to make an EMI payment?
-
 Can I use any Debit Card to pay for my order?
-
 Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
-
 Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
-
 Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
-
 How can I get the 3D Secure password for my Credit/Debit Card?
-
 How can I pay with a saved Credit/Debit Card?
-
 How can I pay for my order?
-
 How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-
 How do I pay using a credit or debit card?
-
 How does the 3D Secure password add security to my online transactions?
-
 If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
-
 What is a 3D Secure password?
-
 What is the amount I can shop for with Cash on Delivery payment option?
-
 What is Cash on Delivery?
 Payment
 What is Flipkart's credit card EMI payment option?
-
 How can I order for large quantities of the product as part of a corporate order?
-
 How can I label my saved cards?
-
 How many cards can I save on Flipkart?
-
 I had opted to save my card at the time of payment but my card was not saved. Why?
-
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 Is it safe to save my cards on Flipkart?
-
 What card information does Flipkart store?
-
 What cards can I save on Flipkart?
-
 What is a 'card label'?
-
 What is the 'Save Card' feature?
-
 How does Flipkart prevent card fraud?
-
 Can I delete my saved cards?
-
 How can I save my card(s) on Flipkart?
-
 How do I pay using Flipkart's credit card EMI option?
-
 How is my EMI debited?
-
 I have a query about the EMI charge. What should I do?
-
 What are the interest rates for the Credit card EMI plans?
-
 Which Credit cards are eligible for EMI?
-
 Can I pay with any Credit card?
-
 Can I use a saved card to make an EMI payment?
-
 Can I use any Debit Card to pay for my order?
-
 Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
-
 Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
-
 Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
-
 How can I get the 3D Secure password for my Credit/Debit Card?
-
 How can I pay with a saved Credit/Debit Card?
-
 How can I pay for my order?
-
 How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-
 How do I pay using a credit or debit card?
-
 How does the 3D Secure password add security to my online transactions?
-
 If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
-
 What is a 3D Secure password?
-
 What is the amount I can shop for with Cash on Delivery payment option?
-
 What is Cash on Delivery?
 Payment
 What is Flipkart's credit card EMI payment option?
-
 How can I order for large quantities of the product as part of a corporate order?
-
 How can I label my saved cards?
-
 How many cards can I save on Flipkart?
-
 I had opted to save my card at the time of payment but my card was not saved. Why?
-
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 Is it safe to save my cards on Flipkart?
-
 What card information does Flipkart store?
-
 What cards can I save on Flipkart?
-
 What is a 'card label'?
-
 What is the 'Save Card' feature?
-
 How does Flipkart prevent card fraud?
-
 Can I delete my saved cards?
-
 How can I save my card(s) on Flipkart?
-
 How do I pay using Flipkart's credit card EMI option?
-
 How is my EMI debited?
-
 I have a query about the EMI charge. What should I do?
-
 What are the interest rates for the Credit card EMI plans?
-
 Which Credit cards are eligible for EMI?
-
 Can I pay with any Credit card?
-
 Can I use a saved card to make an EMI payment?
-
 Can I use any Debit Card to pay for my order?
-
 Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
-
 Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
-
 Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
-
 How can I get the 3D Secure password for my Credit/Debit Card?
-
 How can I pay with a saved Credit/Debit Card?
-
 How can I pay for my order?
-
 How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-
 How do I pay using a credit or debit card?
-
 How does the 3D Secure password add security to my online transactions?
-
 If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
-
 What is a 3D Secure password?
-
 What is the amount I can shop for with Cash on Delivery payment option?
-
 What is Cash on Delivery?
 What is Flipkart's credit card EMI payment option?
-
-With Flipkart’s credit card EMI option, you can choose to pay in easy installments of 3, 6, 9, 12, 18, or 24 months, with credit cards from the following banks:
-
+With Flipkartâ€™s credit card EMI option, you can choose to pay in easy installments of 3, 6, 9, 12, 18, or 24 months, with credit cards from the following banks:
 HDFC
 Citi
 ICICI
@@ -222,7 +118,6 @@ SBI
 Standard Chartered
 HSBC
 *18 & 24 months EMI options are available from select banks only. Please refer to the table below for more details:
-
 Banks	Supports 18 & 24 months tenure	Minimum order value to avail 18 & 24 months EMI options
 HDFC	Yes	? 10,000
 Citi	Yes	? 10,000
@@ -234,79 +129,51 @@ SBI	No	NA
 Standard Chartered	Yes	? 4,000
 HSBC	No	NA
 How can I order for large quantities of the product as part of a corporate order?
-
 You can write to corporatesales@flipkart.com for your corporate gifting requirements.
 How can I label my saved cards?
-
 You can specify a card label at the time of saving a card on Flipkart through the 'My Account' section. You can also add/edit the label anytime through 'My Saved Cards' in the 'My Account' section on Flipkart.
 How many cards can I save on Flipkart?
-
 You can save up to 10 cards using the 'Save Card' option.
 I had opted to save my card at the time of payment but my card was not saved. Why?
-
 If you opt to save your card at the time of making the payment, then the only time your card may not get saved is when the payment fails due to the card being invalid. If the payment is successful and the card is not saved, please visit your My Account section to save your card.
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 If you type an incorrect card number, name or card expiry date, you can delete the card by clicking on 'Remove this card'. You can then add the card again with the correct details.
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 If you type an incorrect card number, name or card expiry date, you can delete the card by clicking on 'Remove this card'. You can then add the card again with the correct details.
 Help CentrePayment
 Is it safe to save my cards on Flipkart?
-
 Is it safe to save my cards on Flipkart?
-
 At Flipkart, we use the highest possible security (256-bit encryption) to protect your card details. We process all credit card and debit card payments through secure and trusted payment gateways which are managed by leading banks.
-
 Also, banks now use the 3D Secure password service for online transactions that provides an extra layer of security through identity verification.
 What card information does Flipkart store?
-
 We only store the card number, cardholder's name and the card's expiry date. We do not store the card's CVV number or 3D Secure password.
 What is a 'card label'?
-
 A card label is a name you give to your card while saving it on Flipkart.
-
 This helps in identifying the card at the time of making a payment. Even if you don't specify a card label, you can still identify the card by the first 2 and last 4 digits of the card number which are visibleWhat is the 'Save Card' feature?
-
 The 'Save Card' option lets you save your credit/debit cards on your Flipkart account. This helps you complete your transactions in a quick and easy way. to you when the saved card is shown.
 How does Flipkart prevent card fraud?
-
 Online payments are monitored by our systems for any suspicious activity and some transactions are verified through extensive checks if we find that they are not authorised by the owner of the card. When we're not able to rule fraud out in rare cases, the transaction is kept on hold and we ask the shopper to share relevant proofs. This is done to make sure that the transaction is genuine and authorised.
 Can I delete my saved cards?
-
 Yes, you can delete your saved cards anytime. This can be done in two ways:
-
 At the time of paying with a credit or debit card, you can see your saved card(s) & delete a saved card by clicking on 'Remove this card'.
-You can also delete your saved card(s) through the My Account section. Go to 'My Account › Payments › My Saved Cards' and you will be able to see your saved card(s). You can then click on 'Remove this card'.
+You can also delete your saved card(s) through the My Account section. Go to 'My Account â€º Payments â€º My Saved Cards' and you will be able to see your saved card(s). You can then click on 'Remove this card'.
 Help CentrePayment
 How can I save my card(s) on Flipkart?
-
 How can I save my card(s) on Flipkart?
-
 You can save your card in two ways:
-
 When you're paying with your credit/debit card, just choose the option 'Save this card for faster payments'.
-You can also add your credit/debit card(s) by going to 'My Account › Payments › My Saved Cards'. Here, you can view/edit/delete your previously saved cards and also add a new one.
+You can also add your credit/debit card(s) by going to 'My Account â€º Payments â€º My Saved Cards'. Here, you can view/edit/delete your previously saved cards and also add a new one.
 How do I pay using Flipkart's credit card EMI option?
-
-
-
 When you're prompted to choose a payment method for your order, select EMI and then choose the bank and the plan you would prefer. Enter your credit card and follow the prompts. Once the payment is authorised, your order will be processed and shipped.
-
 You'll need to pay the total amount in the predetermined number of instalments as per your credit card billing cycles. 
 Please note, an amount equivalent to your card limit will be blocked on the day of the transaction, your card limit will be reset with every successful EMI payment.
 How is my EMI debited?
-
 If you have paid for your order using the EMI payment mode, the full amount will be charged to your card the day of the transaction. Within 7 days, you will see a credit for the full amount. The first EMI charge will occur subsequently. If your card's billing date falls within those 7 working days, you need to pay only the EMI amount to the bank.
 I have a query about the EMI charge. What should I do?
-
 You can get in touch with your card issuing bank to know about EMI transaction charges as they may vary What are the interest rates for the Credit card EMI plans?
-
 You will see the actual interest rates and the amount charged by the bank for your credit card EMI plan during checkout after choosing the EMI payment method while placing your order.across banks.
 Which Credit cards are eligible for EMI?
-
 EMI is available for Credit cards from the following banks:
-
 ICICI
 Citi
 SBI
@@ -325,315 +192,179 @@ I haven't received the Gift Card I bought
 I'm not able to use my Gift Card
 Other
 How do I know my order has been confirmed?
-
 Once your order has been logged and payment authorization has been received,the seller confirms receipt of the order and begins processing it.
 You will receive an email containing the details of your order when the seller receives it and confirms the same. In this mail you will be provided with a unique Order ID (eg. OD01202130213),a listing of the item(s) you have ordered and the expected delivery time.
 You will also be notified when the seller ships the item(s) to you. Shipping details will be provided with the respective tracking number(s).
-
-
 Issue still not resolved ?
 Feel free to talk to us about any queries or feedback. Customer satisfaction is our highest priority.
 Call me back
 Response time: Within 10 mins
 Email us
 I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
-
 No. However,in case your order hasn't been delivered yet,you can cancel it and place a new order by selecting your preferred EMI plan. Orders for certain items cannot be cancelled after 24 hours of order placement. Please check the seller's cancellation policy on the product page for details.
 Do I need to install the PhonePe app to use the wallet option on my Flipkart account?
-
 No,you will be able to use the wallet option on your Flipkart account for payments without installing the PhonePe app. You can choose to install the PhonePe app to access other payment features.
 How can I get the 3D Secure password for my Credit/Debit Card?
-
 You can get a 3D Secure password by registering your Credit/Debit Card on your bank's website.
 How can I pay for my order?
-
 You can choose to pay for an order using any of the below methods:
-
-
 Cash on Delivery
 Net Banking
 Gift Card
 PhonePe Wallet
 Visa, MasterCard, Maestro and American Express Credit or Debit cards issued in India and 21 other countries
 How can I pay for my order?
-
 You can choose to pay for an order using any of the below methods:
-
-
 Cash on Delivery
 Net Banking
 Gift Card
 PhonePe Wallet
 Visa, MasterCard, Maestro and American Express Credit or Debit cards issued in India and 21 other countries
 How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-
 You can directly pay for your order at the pickup outlet for Cash on Delivery orders.
 What is a 3D Secure password?
-
 A 3D Secure password adds an extra layer of security through identity verification for your online Credit & Debit card transactions (VISA & MasterCard).
 How can I foreclose my EMI with Bajaj Finserv?
-
 My payment from the 'Bajaj Finserv No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-
 I did not get the OTP while I was paying through the 'Bajaj Finserv No Cost EMI' payment mode. What should I do?
-
 Can I cancel my EMI after I've placed the order using the Bajaj Finserv payment option?
-
 Can I foreclose my EMI with Bajaj Finserv?
-
 Can I get the refund for the item to any other mode if I have paid using the Bajaj Finserv payment option?
-
 Do I need to make a down payment to buy an item using the Bajaj Finserv EMI payment mode?
-
 How can I get a Bajaj Finserv EMI card?
-
 I chose the wrong EMI plan while making the payment using Bajaj Finserv No Cost EMI option. Can I change it now?
-
 What are the EMI plans available if I pay using the Bajaj Finserv payment mode?
-
 If I have paid for my order using the Bajaj Finserv No Cost EMI payment option, will I get a complete refund if the item is cancelled or returned?
-
 What is the credit limit on the Bajaj Finserv card for shopping on Flipkart?
-
 How can I pay for my order using the Bajaj Finserv payment mode?
-
 How is Bajaj Finserv payment mode different from the credit card EMI payment mode?
-
 What are the benefits of the Bajaj Finserv payment mode?
-
 Why can't I see Bajaj Finserv as a payment mode for some items?
-
 Is Bajaj Finserv payment mode available on both the website and app?
-
 What is Bajaj Finserv payment mode?
 SBI Pre-approved loan
 What are the EMI plans available if I choose the 'Pre-approved EMI' payment option?
-
 What is the pre-approved EMI limit for shopping on Flipkart?
-
-Is SBI’s 'Pre-approved EMI' payment option available both on Flipkart’s website and app?
-
+Is SBIâ€™s 'Pre-approved EMI' payment option available both on Flipkartâ€™s website and app?
 Can I get the refund for the item through any other mode if I have paid for my order using the 'Pre-approved EMI' payment option?
-
 Can I buy any item using the 'Pre-approved EMI' payment option?
 Credit Card No Cost EMI
 I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
-
-Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
-
+Is 'Credit Card No Cost EMI' payment mode available on Flipkartâ€™s website and mobile app?
 What are the benefits of the 'Credit Card No Cost EMI' payment mode?
-
 How can I foreclose my EMI for an item I bought using the 'Credit Card No Cost EMI'?
-
 Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
-
 Can I foreclose my EMIs for products purchased using the 'Credit Card No Cost EMI' payment mode?
-
-Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option?
-
+Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option
 Do I need to make a down payment to buy an item using the 'Credit Card No Cost EMI' payment mode?
-
 How can I pay for my order using the 'Credit Card No Cost EMI' payment mode?
-
 How is 'Credit Card No Cost EMI' different from 'Credit Card EMI' payment mode?
-
 I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
-
 My payment using the 'Credit Card No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-
 What are the EMI plans available if I pay using the 'Credit Card No Cost EMI' payment mode?
-
 What is 'Credit Card No Cost EMI'?
-
 What is No Cost EMI and how can I avail it?
-
 What is the credit limit on the 'Credit Card No Cost EMI' card for shopping on Flipkart?
-
 Why can't I see 'Credit Card No Cost EMI' as a payment mode for some items?
-
 Is 'Credit Card No Cost EMI' payment mode available on Flipkart's Windows and iOS apps?
-
 Will I get a complete refund if the item is cancelled or returned if I have paid for the order using the 'Credit Card No Cost EMI' payment option?
 I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
-
 Please contact your card issuing bank for OTP support.
-Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
-
-Yes, ‘Credit Card No Cost EMI' payment mode is available on our website, mobile app, and Flipkart Lite, our mobile site
-
+Is 'Credit Card No Cost EMI' payment mode available on Flipkartâ€™s website and mobile app?
+Yes, â€˜Credit Card No Cost EMI' payment mode is available on our website, mobile app, and Flipkart Lite, our mobile site
 Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
-
 Yes, you can cancel the order irrespective of the payment mode used for it. However, orders for certain items cannot be cancelled after 24 hours of order placement.
-
 Please check the seller's cancellation policy on the product page for details.
 I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
-
-Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
-
+Is 'Credit Card No Cost EMI' payment mode available on Flipkartâ€™s website and mobile app?
 What are the benefits of the 'Credit Card No Cost EMI' payment mode?
-
 How can I foreclose my EMI for an item I bought using the 'Credit Card No Cost EMI'?
-
 Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
-
 Can I foreclose my EMIs for products purchased using the 'Credit Card No Cost EMI' payment mode?
-
 Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option?
-
 Do I need to make a down payment to buy an item using the 'Credit Card No Cost EMI' payment mode?
-
 How can I pay for my order using the 'Credit Card No Cost EMI' payment mode?
-
 How is 'Credit Card No Cost EMI' different from 'Credit Card EMI' payment mode?
-
 I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
-
 My payment using the 'Credit Card No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-
 What are the EMI plans available if I pay using the 'Credit Card No Cost EMI' payment mode?
-
 What is 'Credit Card No Cost EMI'?
-
 What is No Cost EMI and how can I avail it?
-
 What is the credit limit on the 'Credit Card No Cost EMI' card for shopping on Flipkart?
-
 Why can't I see 'Credit Card No Cost EMI' as a payment mode for some items?
-
 Is 'Credit Card No Cost EMI' payment mode available on Flipkart's Windows and iOS apps?
-
 Will I get a complete refund if the item is cancelled or returned if I have paid for the order using the 'Credit Card No Cost EMI' payment option?
 I did not get an OTP while paying through the 'Credit Card No Cost EMI' payment mode. What should I do?
-
-Is 'Credit Card No Cost EMI' payment mode available on Flipkart’s website and mobile app?
-
+Is 'Credit Card No Cost EMI' payment mode available on Flipkartâ€™s website and mobile app?
 What are the benefits of the 'Credit Card No Cost EMI' payment mode?
-
 How can I foreclose my EMI for an item I bought using the 'Credit Card No Cost EMI'?
-
 Can I cancel an order placed using the 'Credit Card No Cost EMI' payment option?
-
 Can I foreclose my EMIs for products purchased using the 'Credit Card No Cost EMI' payment mode?
-
 Can I get the refund for the item through any other mode if I have paid using the 'Credit Card No Cost EMI' payment option?
-
 Do I need to make a down payment to buy an item using the 'Credit Card No Cost EMI' payment mode?
-
 How can I pay for my order using the 'Credit Card No Cost EMI' payment mode?
-
 How is 'Credit Card No Cost EMI' different from 'Credit Card EMI' payment mode?
-
 I chose the wrong EMI plan while making the payment using 'Credit Card No Cost EMI' option. Can I change it now?
-
 My payment using the 'Credit Card No Cost EMI' payment mode did not go through, but the amount has been blocked on my card. What should I do?
-
 What are the EMI plans available if I pay using the 'Credit Card No Cost EMI' payment mode?
-
 What is 'Credit Card No Cost EMI'?
-
 What is No Cost EMI and how can I avail it?
-
 What is the credit limit on the 'Credit Card No Cost EMI' card for shopping on Flipkart?
-
 Why can't I see 'Credit Card No Cost EMI' as a payment mode for some items?
-
 Is 'Credit Card No Cost EMI' payment mode available on Flipkart's Windows and iOS apps?
-
 Will I get a complete refund if the item is cancelled or returned if I have paid for the order using the 'Credit Card No Cost EMI' payment option?
 What is Flipkart's credit card EMI payment option?
-
 How can I order for large quantities of the product as part of a corporate order?
-
 How can I label my saved cards?
-
 How many cards can I save on Flipkart?
-
 I had opted to save my card at the time of payment but my card was not saved. Why?
-
 I typed an incorrect card number by mistake when adding my card. How do I correct it?
-
 Is it safe to save my cards on Flipkart?
-
 What card information does Flipkart store?
-
 What cards can I save on Flipkart?
-
 What is a 'card label'?
-
 What is the 'Save Card' feature?
-
 How does Flipkart prevent card fraud?
-
 Can I delete my saved cards?
-
 How can I save my card(s) on Flipkart?
-
 How do I pay using Flipkart's credit card EMI option?
-
 How is my EMI debited?
-
 I have a query about the EMI charge. What should I do?
-
 What are the interest rates for the Credit card EMI plans?
-
 Which Credit cards are eligible for EMI?
-
 Can I pay with any Credit card?
-
 Can I use a saved card to make an EMI payment?
-
 Can I use any Debit Card to pay for my order?
-
 Can I use the Cash on Delivery payment option for every product I buy on Flipkart?
-
 Can I use Credit/Debit Card or Netbanking to pay on Flipkart through the Flipkart app?
-
 Can I combine the balance on my Gift Cards or PhonePe Wallet with Cash on Delivery to pay for an order?
-
 How can I get the 3D Secure password for my Credit/Debit Card?
-
 How can I pay with a saved Credit/Debit Card?
-
 How can I pay for my order?
-
 How do I pay for my Cash-on-Delivery order if I choose to pick up the product from the pick-up store?
-
 How do I pay using a credit or debit card?
-
 How does the 3D Secure password add security to my online transactions?
-
 If I have a saved card on Flipkart, will I be able to use a new card for my next payment?
-
 What is a 3D Secure password?
-
 What is the amount I can shop for with Cash on Delivery payment option?
-
 What is Cash on Delivery?
 About Cash/Card on Delivery
 Cash on Delivery is a payment method available on Amazon.in. It lets you place orders without the need of an advance payment.
-
 Cash on Delivery is available as a payment method for all items Fulfilled by Amazon, Prime Eligible and some seller fulfilled items. Eligible items will be indicated by the message "Eligible for Cash on Delivery" on the product details page.
-
 You can pay for Cash on Delivery orders by cash at all locations and by Credit/Debit card in select locations. Please check with the delivery associate if you can pay by card. We accept Visa, MasterCard, Maestro and Rupay debit and credit cards from all banks.
-
 We accept all valid notes, including newly introduced 500 and 2,000 Rupee notes. You can also pay conveniently at your doorstep with cards.
-
 Cash on Delivery cannot be used in conjunction with the gift card balance as a payment mode. If you deselect gift card balance as a payment mode, Cash On Delivery may become available as a payment mode, provided the item and pin code are eligible.
-
 There are no extra charges for Cash on Delivery. We only collect the amount printed on the invoice.
-
 Note:
-
 Cash on Delivery is not yet available for all pin codes. This is due to limitations of courier services we use. Click here to see the list of states where this facility is not available.
 Cash on Delivery will not be available if your order value exceeds Rs. 30,000.
 Cash on Delivery will only be available for some items under Lightning Deals.
 Cash on Delivery is currently not available for Fine Art category.
 Cash on Delivery will not be available for orders which include items sold by Global Store.
 For precious jewelry, all orders placed using cash on delivery as payment method will be verified through a call before shipment.
-If you're using Cash on Delivery as a payment method and your mobile number is not verified on Amazon, you will be asked to enter a One-Time password in order to complete your order. This One- Time password will bPayment, Pricing & Promotion › Payment Methods›
+If you're using Cash on Delivery as a payment method and your mobile number is not verified on Amazon, you will be asked to enter a One-Time password in order to complete your order. This One- Time password will bPayment, Pricing & Promotion â€º Payment Methodsâ€º
 EMI (Easy Installments)
 EMI is one of the payment methods available on Amazon.in. It allows you to pay for your orders in easy monthly installments.
-
 About EMI
 No Cost EMI
 EMI eligibility
@@ -644,66 +375,44 @@ Interest rates
 EMI terms and conditions
 About EMI
 EMI is one of the payment methods available on Amazon.in. It allows you to pay for your orders in easy monthly installments, provided you have a card from any of the following banks or payment partners mentioned below. The EMI payment method is available on the following cards:
-
 All major credit cards (ICICI Bank, HDFC Bank, Citibank, SBI Card, Standard Chartered Bank, Kotak Mahindra Bank, Axis Bank, HSBC Bank, Yes Bank, RBL, IndusInd Bank) and select HDFC debit cards; and
 Bajaj Finserv Loan cards
 If your order is eligible for purchase on EMI, you will see the EMI option with a table of EMI providers with their corresponding rates and tenures offered.
-
 Back to top
-
 No Cost EMI
 No Cost EMI is an offer by which the total amount paid by you to the EMI provider will be the price of the product split equally across the EMI tenure. The interest payable to the bank will be offered as an upfront discount during checkout, effectively giving you the benefit of No Cost EMI.
-
- 
 For detailed information on how no cost emi works, visit www.amazon.in/nocostemi
-
 No Cost EMI is available for specific tenures on select products, sold by participating sellers and for specific tenures. It is available for customers having (I) a valid credit card issued by a partner bank (ICICI Bank, HDFC Bank, Citibank, SBI Card, Standard Chartered Bank, Kotak Mahindra Bank, Axis Bank, HSBC Bank, Yes Bank, RBL, IndusInd Bank); or (ii) a Bajaj Finserv Loan Card.
-
 To avail the No Cost EMI facility using either a credit card or Bajaj Finserv Loan card, customers must place an order with only one eligible item added to the cart. The No Cost EMI payment option cannot be used with multiple items (including multiple eligible items) in the cart.
-
 Back to top
-
 EMI eligibility
 The following eligibility conditions are applicable for EMI as a payment option.
-
 EMI purchases using a credit card is available on eligible items worth Rs. 3,000 or more. EMI purchases using HDFC debit cards is available on eligible items worth Rs.10,000 or more.
 EMI purchases using a Bajaj Finserv Loan cards is available on select items (like mobile phones, air conditioners, refrigerators, smartphones, laptops and other consumer durables) sold by select sellers.
 EMI is not available if your order contains gift cards, precious jewelry or digital content.
 EMI cannot be used in combination with Amazon Pay balance. You will need to deselect your Amazon Pay balance during checkout and pay in full with EMI only.
 Note: Currently HDFC debit card EMI is enabled on orders for products from select categories, if your order has any products from ineligible categories then the debit card EMI option will not be available.
-
 Your card issuing bank or payment partner has the discretion to either approve or reject an order placed using the EMI payment option on the basis of your eligibility for a loan. If your bank or payment partner rejects your request, the order will be cancelled. You can approach your bank or payment partner to understand why the EMI was not approved. In such cases, you can place a new order using a different payment method.
-
 Back to top
-
 Using EMI for a purchase
 If you have an eligible card, complete the steps below.
-
- 
 EMI repayment
 On credit card:
-
 As soon as you complete your order on Amazon.in, you will see the full amount charged on your credit card.
 After 3-7 days, your bank will convert this into an EMI.
 From your next billing cycle, you will be charged the EMI amount and your credit limit will be reduced by the outstanding amount. For example, if you have made a 3-month EMI purchase of Rs. 25,000 and your credit limit is Rs. 1,00,000 then your bank will block your credit limit by Rs. 25,000 and thus your available credit limit after the purchase will only be Rs. 75,000. As and when you pay your EMI every month, your credit limit will be released accordingly.
 On debit card:
-
-Unlike credit cards the entire order amount isn’t blocked on your accountcard. We will use the pre-approved overdraft facility enabled by your bank for your purchase on Amazon.in. Depending upon your EMI tenure your installment will be deducted as follows-
+Unlike credit cards the entire order amount isnâ€™t blocked on your accountcard. We will use the pre-approved overdraft facility enabled by your bank for your purchase on Amazon.in. Depending upon your EMI tenure your installment will be deducted as follows-
 If order is placed between 1st and 19th (both the dates inclusive) of a month, then the first installment will be due on 5th of the following month.
 If order is placed between 21st and 31st (both the dates inclusive) of a month, then the first installment will be due on 5th of the subsequent following month.
 On Bajaj Finserve Loan Card:
-
 For purchases on EMI using Bajaj Finserv Loan cards, the EMI deduction or payment will be as per the repayment instructions you have set up with them at the time of registration.
 For details about how to obtain a Bajaj Finserv Loan Card, please contact Bajaj Finserv on 020-39575152 (Toll number - charges are applicable). You may also email them at wecare@bajajfinserv.in.
 Back to top
-
 EMI cancellation
 If you cancel or return an order purchased using EMI (including , Credit Card No Cost EMI) Amazon will refund the entire purchase amount to you immediately and the EMI will be cancelled. You will then need to contact your bank to confirm how the EMI scheme on your credit card has been modified, or for any queries on foreclosure.
-
 When you cancel or return an order placed with Bajaj Finserv Loan Card, we will forward your request to Bajaj Finserv. Bajaj Finserv will cancel the loan if you have not paid the first installment yet. In case you've paid any installment(s), the same will be refunded to your Card and the loan will be cancelled by Bajaj Finserv. You will not be charged for the foreclosure or pre-closure of your No Cost EMI availed through Bajaj Finserv Loan Card.
-
 Back to top
-
 Interest rates
 Plan ( tenure in months)
 3	6	9	12	18	24
@@ -720,36 +429,25 @@ RBL	13%	13%	13%	13%	13%	13%
 Induslnd	13%	13%	13%	13%	15%	15%
 Yes Bank	12%	12%	13%	13%	14%	15%
 The rates shown above are annualized interest rates charged on a monthly reducing balance. This means that the principal amount is reduced with every EMI paid and the interest is calculated on the outstanding balance.
-
 There is no processing or convenience fees charged on any EMI transaction.e sent to your registered mobile number.
-Payment, Pricing & Promotion › Payment Methods›
+Payment, Pricing & Promotion â€º Payment Methodsâ€º
 Types of Credit & Debit Cards That Can Be Used
 You can use following Credit cards and Debit cards for payments on Amazon.in.
-
 The following credit cards issued in India can be used for payment:
 Credit Cards
-
-
 Debit Cards
-
-
 *Maestro debit cards issued by Citibank and State Bank of India are only accepted
-
 If your card is issued outside of India, we accept:
-
 All international personal credit and debit cards (Visa, MasterCard and American Express) issued outside India.
 All Commercial MasterCard cards issued in South Asia, Middle East and Africa region; and all Visa commercial cards issued in the Asia-Pacific region.
 Note:
-
 Payment may be split between one of the accepted credit or debit cards and an Amazon Gift Card, but payment can't be split among multiple cards.
 Credit or debit cards issued outside India cannot be used to pay for the Prime membership fee.
 To know more about adding a debit or credit card to your amazon account, please check the Add & Manage Payment Methods help page.
-Payment, Pricing & Promotion › Payment Methods›
+Payment, Pricing & Promotion â€º Payment Methodsâ€º
 Net Banking
 You can use your Net Banking account to pay for your Amazon.in order.
-
 We accept payments for your orders through the following banks:
-
 Allahabad Bank	Andhra Bank	Axis Bank
 Bank of Baroda	Bank of Bahrain & Kuwait	Bank of India
 Bank of Maharashtra	Canara Bank	Catholic Syrian Bank
@@ -768,28 +466,21 @@ State Bank of Mysore	State Bank of Patiala	State Bank of Travancore
 Syndicate Bank	Tamilnad Mercantile Bank Limited	Tamil Nadu State Co-operative Bank
 The Royal Bank of Scotland	Union Bank of India	United Bank of India
 Vijaya Bank	Yes Bank Limited	
-Payment, Pricing & Promotion › Promotions & Deals›
+Payment, Pricing & Promotion â€º Promotions & Dealsâ€º
 About Lightning Deals
 A Lightning Deal is a promotion in which a limited number of discounts are offered on an item for a short period of time.
-
 Lightning Deals can be found throughout Amazon.in, including the Deals page, and are available, one per customer, until either the promotion period for the deal expires or all the available promotional discounts are claimed. Since Lightning Deals are time-sensitive, it's important to complete your order as soon as possible.
-
 Note: When all the promotional discounts for a Lightning Deal are held by other customers, you'll see a Join Waitlist button and the status bar will show that 100% of the promotional discounts are currently being held in other customers' Carts or have already been used to purchase the deal.
-
 Happy Hour Promotions on Amazon.in are available from the Lightning Deals widget on the Deals page.
-
 When a Lightning Deal is available, here's what you'll see:
-
 The item featured in the deal
 An "Add to Cart" button if there are available promotional discounts
 Note: You must add the item to your cart from the widget to avail the lightning deal. You will not be able to avail the deal if you add the item to your cart from the product detail page.
-
 Any available variations of the item (for example: different sizes or colours)
 The promotional discount amount and final price
 A status bar indicating the percentage of deals currently in customers' Carts or purchased (percentage claimed)
 A timer showing how long you have to add the item to your Cart and claim the promotional discount
 Lightning Deal -Terms and Conditions
-
 Lightning Deal promotional discounts (Lightning Deals) are short-time offers on items that may be deeply discounted and of limited availability.
 Lightning Deals may only be applied to one unit of each product (unless otherwise stated).
 Each Lightning Deal is subject to two time restrictions. The first restriction is for the overall Lightning Deal and is displayed with the specific Lightning Deal. The item must be added to the Cart before this time expires. The second restriction applies after a Lightning Deal item has been added to the Cart and expires after a very limited time. Orders must be placed before the expiration of both time periods.
@@ -797,19 +488,16 @@ A Lightning Deal must be redeemed by checking out through clicking the "Proceed 
 Lightning Deals do not apply to shipping and handling or taxes.
 If you return a product purchased using a Lightning Deal, your refund will equal the amount you paid for the product, subject to applicable refund policies.
 Blockbuster Deals - Terms and Conditions
-
 Customers shopping from the mobile app will be able to access the Blockbuster Deals 15 minutes earlier than the desktop users.
 The waitlist option will be active only after the blockbuster deals become available on all platforms i.e. Mobile and Desktop.
 Due to high traffic and popularity of certain deals, some deals might be already claimed by the time they are available on Desktop.
 The blockbuster deals are only available on Android and iOS Mobile app. The deals are not available on Tablet apps (any OS) and Windows Mobile app.
 All Lightning Deals and Waitlist terms and conditions apply.
 To avail cashback and other app specific promotions, the purchase should be completed via Mobile app only.
-Payment, Pricing & Promotion › Payment Methods›
+Payment, Pricing & Promotion â€º Payment Methodsâ€º
 Unified Payment Interface (UPI)
 Unified Payment Interface (UPI) is an initiative by the Government of India. Anyone who has registered on UPI and has a valid UPI ID can now make payments for their Amazon orders through the mobile shopping app and the mobile browser.
-
 You can register for UPI through any of the UPI apps (e.g.: BHIM) and make payments on Amazon by using the UPI ID provided by them.
-
 UPI will be available as a payment method on our mobile shopping app and browser for all transactions valuing Rs.10000 or less. However do note that the following exceptions apply: 
 UPI cannot be used in combination with Amazon Pay balance
 UPI is currently not available while shopping from our desktop browser
@@ -817,22 +505,16 @@ If your payment failed initially, UPI will not be an option in the Revise/Retry 
 Here is how you can use UPI on our mobile shopping app/browser: 
 Checkout with an order total of Rs.10000 or less.
 On the Select a payment method screen, select UPI as the payment method and enter your UPI ID there (UPI ID format: ABC@XYZ) and tap on Verify.
-If the ID you’ve entered is valid, you will be prompted to go to your UPI ID linked mobile app to complete the payment.
+If the ID youâ€™ve entered is valid, you will be prompted to go to your UPI ID linked mobile app to complete the payment.
 Go to your UPI ID linked mobile app and from the Pending Transactions tab in it, complete your Amazon.in payment.
 Once the payment is complete, you can see an order placement confirmation on your mobile shopping app/browser.
 Note: The payment needs to be completed within 10 minutes to successfully place the order.
-
-If the payment failed on my order, how do I proceed?
-
-If the payment failed on your order, you will receive an option to retry your payment with a different payment method. If you’d like to use UPI again, place a new order.
-
+If the payment failed on my order, how do I proceed
+If the payment failed on your order, you will receive an option to retry your payment with a different payment method. If youâ€™d like to use UPI again, place a new order.
 If an order was returned to Amazon, how would a refund be processed?
-
 Refunds on such transactions will be done directly to the UPI linked bank account. The refund timeline for such transactions is 2-4 business days
 Payment, Pricing & Promotions
-
 To revise your failed payment for an order, within 24 hours, go to
-
 Your Orders
 CREDIT/DEBIT/GIFT CARD
 Types of credit/debit cards that can be used
@@ -860,5 +542,3 @@ About Lightning Deals
 Promotions and Deals
 About Amazon Coupons
 Amazon Family
-
-
